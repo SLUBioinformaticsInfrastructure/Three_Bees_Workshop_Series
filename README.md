@@ -1,4 +1,6 @@
 # Three_Bees_Workshop_Series
+
+![alt text](/logos/3bees_fulltext.png)
 This is the repository for the collaborative workshop series between SLUBI and SLU's Center for Statistics. 
 
 As the workshop series progresses this repository will be filled with the contents of each instance. 
@@ -10,4 +12,4 @@ Planned instances:
 - 15th Jan 2024	Introduction to Markdown
 - 29th Jan 2024	Population Structure
 
-For more informatioin please visit www.slubi.se. 
+For more information please visit www.slubi.se. 
