@@ -1,7 +1,10 @@
 # Three_Bees_Workshop_Series
 
-![alt text](/logos/3bees_fulltext.png)
+<img src="/logos/3bees_fulltext.png" alt="alt text" width="400" />
 This is the repository for the collaborative workshop series between SLUBI and SLU's Center for Statistics. 
+
+
+
 
 As the workshop series progresses this repository will be filled with the contents of each instance. 
 
