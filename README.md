@@ -13,6 +13,6 @@ Planned instances:
 - 27th Nov 2023	Linux Basics
 - 11th Dec 2023	PCA: Theory and Practice
 - 15th Jan 2024	Introduction to Markdown
-- 29th Jan 2024	Population Structure
+- 12th Feb 2024	Population Structure
 
 For more information please visit www.slubi.se. 
