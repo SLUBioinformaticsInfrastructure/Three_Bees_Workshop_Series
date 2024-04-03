@@ -3,12 +3,17 @@
 <img src="/logos/3bees_fulltext.png" alt="alt text" width="400" />
 This is the repository for the collaborative workshop series between SLUBI and SLU's Center for Statistics. 
 
-
-
-
 As the workshop series progresses this repository will be filled with the contents of each instance. 
 
 Planned instances: 
+- 08th Apr 2024 Intermediate ggplot in R
+- 22nd Apr 2024 Introduction to High Performance Computing
+- 06th May 2024 Tools and tricks for reproducible research
+- 20th May 2024 Introduction to git
+- 03rd Jun 2024 Project organization in R
+- 17th Jun 2024 interactive visualization in R "shiny"
+
+Past instances: 
 - 13th Nov 2023	Introduction to R
 - 27th Nov 2023	Linux Basics
 - 11th Dec 2023	PCA: Theory and Practice
