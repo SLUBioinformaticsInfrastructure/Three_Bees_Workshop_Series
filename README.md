@@ -6,12 +6,12 @@ This is the repository for the collaborative workshop series between SLUBI and S
 As the workshop series progresses this repository will be filled with the contents of each instance. 
 
 Planned instances: 
-- 08th Apr 2024 Intermediate ggplot in R
-- 22nd Apr 2024 Introduction to High Performance Computing
-- 06th May 2024 Tools and tricks for reproducible research
-- 20th May 2024 Introduction to git
-- 03rd Jun 2024 Project organization in R
-- 17th Jun 2024 interactive visualization in R "shiny"
+- 22nd Apr 2024 postponed due to illness
+- 06th May 2024 Introduction to High Performance Computing
+- 20th May 2024 Tools and tricks for reproducible research
+- 03rd Jun 2024 Introduction to git
+- 17th Jun 2024 Project organization in R
+- 01st Jul 2024 interactive visualization in R "shiny"
 
 Past instances: 
 - 13th Nov 2023	Introduction to R
@@ -22,5 +22,6 @@ Past instances:
 - 26th Feb 2024 How to write functions in R
 - 11th Mar 2024 Introduction to Python
 - 25th Mar 2024 Introduction to Neural Networks
+- 08th Apr 2024 Intermediate ggplot in R
 
 For more information please visit www.slubi.se. 
