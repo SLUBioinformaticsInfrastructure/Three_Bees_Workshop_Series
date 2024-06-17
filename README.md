@@ -6,7 +6,6 @@ This is the repository for the collaborative workshop series between SLUBI and S
 As the workshop series progresses this repository will be filled with the contents of each instance. 
 
 Planned instances: 
-- 17th Jun 2024 Project organization in R
 - 01st Jul 2024 interactive visualization in R "shiny"
 
 Past instances: 
@@ -22,5 +21,6 @@ Past instances:
 - 06th May 2024 Introduction to High Performance Computing
 - 20th May 2024 Tools and tricks for reproducible research
 - 03rd Jun 2024 Introduction to git
+- 17th Jun 2024 Project organization in R
 
 For more information please visit www.slubi.se. 
