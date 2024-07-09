@@ -6,7 +6,9 @@ This is the repository for the collaborative workshop series between SLUBI and S
 As the workshop series progresses this repository will be filled with the contents of each instance. 
 
 Planned instances: 
-- 01st Jul 2024 interactive visualization in R "shiny"
+We are taking a summer break now. In the meantime, please fill out [our questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSfojHf02MqnsVTgKK_tE403ogGI1Pfi9vLg1A407w4SrQbIIw/viewform) to influence the schedule for the next round of workshops. 
+
+Have a nice summer, and welcome back in September!
 
 Past instances: 
 - 13th Nov 2023	Introduction to R
@@ -22,5 +24,6 @@ Past instances:
 - 20th May 2024 Tools and tricks for reproducible research
 - 03rd Jun 2024 Introduction to git
 - 17th Jun 2024 Project organization in R
+- 01st Jul 2024 interactive visualization in R "shiny"
 
 For more information please visit www.slubi.se. 
