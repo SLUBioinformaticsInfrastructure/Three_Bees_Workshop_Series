@@ -6,9 +6,24 @@ This is the repository for the collaborative workshop series between SLUBI and S
 As the workshop series progresses this repository will be filled with the contents of each instance. 
 
 Planned instances: 
-We are taking a summer break now. In the meantime, please fill out [our questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSfojHf02MqnsVTgKK_tE403ogGI1Pfi9vLg1A407w4SrQbIIw/viewform) to influence the schedule for the next round of workshops. 
+- 23rd Sep 2024 Introduction to Linux
+- 07th Oct 2024 Introduction to R
+- 21st Oct 2024 PCA: Theory and Practice
+- 04th Nov 2024 Introduction to Dardel
+- 18th Nov 2024 Working with containers
+- 02nd Dec 2024 Control your environment with Conda/ Pixi
+- 13th Jan 2025 Introduction to Python
+- 27th Jan 2025 Introduction to Statistics for Bioinformatics
+- 10th Feb 2025 Introduction to ggplot in R
+- 24th Feb 2025 Project planning with statistics in mind
+- 10th Mar 2025 Data management
+- 24th Mar 2025 Sequencing techniques
+- 07th Apr 2025 Quality control in sequencing data
+- 21st Apr 2025 Tools and tricks for reproducible research
+- 05th May 2025 Running pipelines with nf-core
+- 19th May 2025 Introduction to Markdown
 
-Have a nice summer, and welcome back in September!
+If there is a topic you would like to hear about, please fill out [our questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSfojHf02MqnsVTgKK_tE403ogGI1Pfi9vLg1A407w4SrQbIIw/viewform) to influence the schedule for the next round of workshops.
 
 Past instances: 
 - 13th Nov 2023	Introduction to R
