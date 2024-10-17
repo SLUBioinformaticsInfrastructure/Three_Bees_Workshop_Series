@@ -6,10 +6,8 @@ This is the repository for the collaborative workshop series between SLUBI and S
 As the workshop series progresses this repository will be filled with the contents of each instance. 
 
 Planned instances (dates and topics are not set in stone): 
-- Session15: 23rd Sep 2024 Introduction to Linux
-- Session16: 07th Oct 2024 Introduction to R
-- Session17: 21st Oct 2024 PCA: Theory and Practice
-- Session18: 04th Nov 2024 Introduction to Dardel
+- Session17: 21st Oct 2024 Introduction to R
+- Session18: 04th Nov 2024 PCA: Theory and Practice
 - Session19: 18th Nov 2024 Working with containers
 - Session20: 02nd Dec 2024 Control your environment with Conda/ Pixi
 - Session21: 13th Jan 2025 Introduction to Python
@@ -40,5 +38,7 @@ Past instances:
 - Session12: 03rd Jun 2024 Introduction to git
 - Session13: 17th Jun 2024 Project organization in R
 - Session14: 01st Jul 2024 interactive visualization in R "shiny"
+- Session15: 23rd Sep 2024 Introduction to Linux
+- Session16: 07th Oct 2024 Introduction to Dardel
 
 For more information please visit www.slubi.se. 
