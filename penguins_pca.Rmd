@@ -1,0 +1,146 @@
+---
+title: "PCA with Penguins"
+author: "Lizel Potgieter"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+pacman::p_load("tidyverse", "palmerpenguins", "corrr", "GGally", "recipes", "tidytext", "tidyr", "here")
+here::i_am("penguins_pca.Rmd")
+
+```
+
+This tutorial was taken from https://allisonhorst.github.io/palmerpenguins/articles/pca.html
+
+### Summary reminder
+First, we have a little summary as a reminder of what we have in the penguins dataframe
+```{r}
+summary(penguins)
+```
+### Correlation Matrix
+```{r}
+penguins_corr <- penguins %>%
+  dplyr::select(body_mass_g, ends_with("_mm")) %>%
+  correlate() %>%
+  rearrange()
+penguins_corr
+```
+
+### Pairwise plot matrix
+Here we compare the various phenotypes measured from the different penguin species
+```{r}
+penguins %>%
+  select(species, body_mass_g, ends_with("_mm")) %>% 
+  GGally::ggpairs(aes(color = species),
+          columns = c("flipper_length_mm", "body_mass_g", 
+                      "bill_length_mm", "bill_depth_mm")) +
+  scale_colour_manual(values = c("darkorange","purple","cyan4")) +
+  scale_fill_manual(values = c("darkorange","purple","cyan4"))
+```
+
+
+### PCA
+There are many, many different tools that you can use to perform a PCA analysis. See Adam's presentation for even more ways to do this!
+```{r}
+penguin_recipe <-
+  recipe(~., data = penguins) %>% 
+  update_role(species, island, sex, year, new_role = "id") %>% 
+  step_naomit(all_predictors()) %>% 
+  step_normalize(all_predictors()) %>%
+  step_pca(all_predictors(), id = "pca") %>% 
+  prep()
+
+penguin_pca <- 
+  penguin_recipe %>% 
+  tidy(id = "pca") 
+
+penguin_pca
+```
+
+The value column output here is the loading. This format is not in the right tidy format, so let's fix that!
+```{r}
+penguin_recipe <-
+  recipe(~., data = penguins) %>% 
+  update_role(species, island, sex, year, new_role = "id") %>% 
+  step_naomit(all_predictors()) %>% 
+  step_normalize(all_predictors()) %>%
+  step_pca(all_predictors(), id = "pca") %>% 
+  prep()
+
+penguin_pca <- 
+  penguin_recipe %>% 
+  tidy(id = "pca") 
+
+penguin_pca
+```
+
+Now we want to see how much each component accounts for in terms of variance
+
+```{r}
+penguin_recipe %>% 
+  tidy(id = "pca", type = "variance") %>% 
+  dplyr::filter(terms == "percent variance") %>% 
+  ggplot(aes(x = component, y = value)) + 
+  geom_col(fill = "#b6dfe2") + 
+  xlim(c(0, 5)) + 
+  ylab("% of total variance")
+```
+
+And now to plot our penguins PCA!
+We need to fix he format.
+```{r}
+pca_wider <- penguin_pca %>% 
+  tidyr::pivot_wider(names_from = component, id_cols = terms)
+```
+
+And then prepare our ggplot script
+```{r}
+# define arrow style
+arrow_style <- arrow(length = unit(.05, "inches"),
+                     type = "closed")
+
+
+pca_plot <-
+  juice(penguin_recipe) %>%
+  ggplot(aes(PC1, PC2)) +
+  geom_point(aes(color = species, shape = species), 
+             alpha = 0.8, 
+             size = 2) +
+  scale_colour_manual(values = c("darkorange","purple","cyan4")) 
+
+pca_plot +
+  geom_segment(data = pca_wider,
+               aes(xend = PC1, yend = PC2), 
+               x = 0, 
+               y = 0, 
+               arrow = arrow_style) + 
+  geom_text(data = pca_wider,
+            aes(x = PC1, y = PC2, label = terms), 
+            hjust = 0, 
+            vjust = 1,
+            size = 5, 
+            color = '#0A537D') 
+```
+
+Let's also see PC2 and PC3
+```{r}
+pca_plot %+% 
+  aes(PC2, PC3) +
+  geom_segment(data = pca_wider,
+               aes(xend = PC2, yend = PC3), 
+               x = 0, 
+               y = 0, 
+               arrow = arrow_style) + 
+  geom_text(data = pca_wider,
+            aes(x = PC2, y = PC3, label = terms), 
+            hjust = 0, 
+            vjust = 1,
+            size = 5, 
+            color = '#0A537D') 
+```
+
