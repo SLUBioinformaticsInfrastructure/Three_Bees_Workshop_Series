@@ -6,9 +6,8 @@ This is the repository for the collaborative workshop series between SLUBI and S
 As the workshop series progresses this repository will be filled with the contents of each instance. 
 
 Planned instances (dates and topics are not set in stone): 
-- Session19: Working with containers
 - Session20: Control your environment with Conda/ Pixi
-- Session21: Introduction to Python
+- Session21: Working with containers
 - Session22: Introduction to Statistics for Bioinformatics
 - Session23: Introduction to ggplot in R
 - Session24: Project planning with statistics in mind
@@ -40,5 +39,6 @@ Past instances:
 - Session16: 07th Oct 2024 Introduction to Dardel
 - Session17: 21st Oct 2024 Introduction to R
 - Session18: 02nd Dec 2024 PCA: Theory and Practice
+- Session19: 13th Jan 2025 Introduction to Python
 
 For more information please visit www.slubi.se. 
