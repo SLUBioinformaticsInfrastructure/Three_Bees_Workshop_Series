@@ -6,17 +6,16 @@ This is the repository for the collaborative workshop series between SLUBI and S
 As the workshop series progresses this repository will be filled with the contents of each instance. 
 
 Planned instances (dates and topics are not set in stone): 
-- Session20: Control your environment with Conda/ Pixi
-- Session21: Working with containers
-- Session22: Introduction to Statistics for Bioinformatics
-- Session23: Introduction to ggplot in R
-- Session24: Project planning with statistics in mind
-- Session25: Data management
-- Session26: Sequencing techniques
-- Session27: Quality control in sequencing data
-- Session28: Tools and tricks for reproducible research
-- Session29: Running pipelines with nf-core
-- Session30: Bonus session Introduction to Markdown
+- Session22: 10th Mar 2025 Introduction to Statistics for Bioinformatics
+- Introduction to ggplot in R
+- Project planning with statistics in mind
+- Data management
+- Sequencing techniques
+- Quality control in sequencing data
+- Tools and tricks for reproducible research
+- Running pipelines with nf-core
+- Control your environment with Conda/ Pixi
+- Working with containers
 
 If there is a topic you would like to hear about, please fill out [our questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSfojHf02MqnsVTgKK_tE403ogGI1Pfi9vLg1A407w4SrQbIIw/viewform) to influence the schedule for the next round of workshops.
 
@@ -40,5 +39,7 @@ Past instances:
 - Session17: 21st Oct 2024 Introduction to R
 - Session18: 02nd Dec 2024 PCA: Theory and Practice
 - Session19: 13th Jan 2025 Introduction to Python
+- Session20: 10th Feb 2025 Introduction to Markdown
+- Session21: 24th Feb 2025 Introduction to Quarto
 
 For more information please visit www.slubi.se. 
