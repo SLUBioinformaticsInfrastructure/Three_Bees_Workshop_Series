@@ -42,5 +42,6 @@ Past instances:
 - Session20: 10th Feb 2025 Introduction to Markdown
 - Session21: 24th Feb 2025 Introduction to Quarto
 - Session22: 10th Mar 2025 Introduction to Statistics for Bioinformatics
+- Session23: 07th Apr 2025 Introduction to ggplot in R
 
 For more information please visit www.slubi.se. 
