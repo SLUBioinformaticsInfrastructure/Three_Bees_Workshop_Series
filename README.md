@@ -6,8 +6,9 @@ This is the repository for the collaborative workshop series between SLUBI and S
 As the workshop series progresses this repository will be filled with the contents of each instance. 
 
 Planned instances (dates and topics are not set in stone): 
-- Session22: 10th Mar 2025 Introduction to Statistics for Bioinformatics
-- Introduction to ggplot in R
+- Session 23: 07th Apr 2025 Introduction to ggplot in R
+- Introduction to Dardel
+- Working with containers
 - Project planning with statistics in mind
 - Data management
 - Sequencing techniques
@@ -15,7 +16,6 @@ Planned instances (dates and topics are not set in stone):
 - Tools and tricks for reproducible research
 - Running pipelines with nf-core
 - Control your environment with Conda/ Pixi
-- Working with containers
 
 If there is a topic you would like to hear about, please fill out [our questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSfojHf02MqnsVTgKK_tE403ogGI1Pfi9vLg1A407w4SrQbIIw/viewform) to influence the schedule for the next round of workshops.
 
@@ -41,5 +41,6 @@ Past instances:
 - Session19: 13th Jan 2025 Introduction to Python
 - Session20: 10th Feb 2025 Introduction to Markdown
 - Session21: 24th Feb 2025 Introduction to Quarto
+- Session22: 10th Mar 2025 Introduction to Statistics for Bioinformatics
 
 For more information please visit www.slubi.se. 
