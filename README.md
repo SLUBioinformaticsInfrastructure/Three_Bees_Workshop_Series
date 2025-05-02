@@ -6,8 +6,7 @@ This is the repository for the collaborative workshop series between SLUBI and S
 As the workshop series progresses this repository will be filled with the contents of each instance. 
 
 Planned instances (dates and topics are not set in stone): 
-- Session 23: 07th Apr 2025 Introduction to ggplot in R
-- Introduction to Dardel
+- Session 25: 05th May 2025 Q&A on Dardel, with HPC support staff
 - Working with containers
 - Project planning with statistics in mind
 - Data management
@@ -39,9 +38,10 @@ Past instances:
 - Session17: 21st Oct 2024 Introduction to R
 - Session18: 02nd Dec 2024 PCA: Theory and Practice
 - Session19: 13th Jan 2025 Introduction to Python
-- Session20: 10th Feb 2025 Introduction to Markdown
-- Session21: 24th Feb 2025 Introduction to Quarto
-- Session22: 10th Mar 2025 Introduction to Statistics for Bioinformatics
-- Session23: 07th Apr 2025 Introduction to ggplot in R
+- Session20: 10th Feb 2025 Reporting with Markdown
+- Session21: 24th Feb 2025 Make reports, presentations and hompages in Quarto
+- Session22: 10th Mar 2025 Common statistical tests
+- Session23: 24nd Mar 2025 Data Management Resources at SLU
+- Session24: 07th Apr 2025 Make pretty graphics - learn to ggplot in R
 
 For more information please visit www.slubi.se. 
