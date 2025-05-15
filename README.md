@@ -6,8 +6,7 @@ This is the repository for the collaborative workshop series between SLUBI and S
 As the workshop series progresses this repository will be filled with the contents of each instance. 
 
 Planned instances (dates and topics are not set in stone): 
-- Session 25: 05th May 2025 Q&A on Dardel, with HPC support staff
-- Working with containers
+- Session26: 19th May 2025 Working with Bioinformatics Containers
 - Project planning with statistics in mind
 - Data management
 - Sequencing techniques
@@ -43,5 +42,6 @@ Past instances:
 - Session22: 10th Mar 2025 Common statistical tests
 - Session23: 24nd Mar 2025 Data Management Resources at SLU
 - Session24: 07th Apr 2025 Make pretty graphics - learn to ggplot in R
+- Session25: 05th May 2025 Q&A on Dardel, with HPC support staff
 
 For more information please visit www.slubi.se. 
