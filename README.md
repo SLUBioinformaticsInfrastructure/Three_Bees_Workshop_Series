@@ -6,7 +6,7 @@ This is the repository for the collaborative workshop series between SLUBI and S
 As the workshop series progresses this repository will be filled with the contents of each instance. 
 
 Planned instances (dates and topics are not set in stone): 
-- Session26: 19th May 2025 Working with Bioinformatics Containers
+- Session27: in planning
 - Project planning with statistics in mind
 - Data management
 - Sequencing techniques
@@ -18,11 +18,11 @@ Planned instances (dates and topics are not set in stone):
 If there is a topic you would like to hear about, please fill out [our questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSfojHf02MqnsVTgKK_tE403ogGI1Pfi9vLg1A407w4SrQbIIw/viewform) to influence the schedule for the next round of workshops.
 
 Past instances: 
-- Session01: 13th Nov 2023	Introduction to R
-- Session02: 27th Nov 2023	Linux Basics
-- Session03: 11th Dec 2023	PCA: Theory and Practice
-- Session04: 15th Jan 2024	Introduction to Markdown
-- Session05: 12th Feb 2024	Population Structure
+- Session01: 13th Nov 2023 Introduction to R
+- Session02: 27th Nov 2023 Linux Basics
+- Session03: 11th Dec 2023 PCA: Theory and Practice
+- Session04: 15th Jan 2024 Introduction to Markdown
+- Session05: 12th Feb 2024 Population Structure
 - Session06: 26th Feb 2024 How to write functions in R
 - Session07: 11th Mar 2024 Introduction to Python
 - Session08: 25th Mar 2024 Introduction to Neural Networks
@@ -43,5 +43,6 @@ Past instances:
 - Session23: 24nd Mar 2025 Data Management Resources at SLU
 - Session24: 07th Apr 2025 Make pretty graphics - learn to ggplot in R
 - Session25: 05th May 2025 Q&A on Dardel, with HPC support staff
+- Session26: 19th May 2025 Working with Bioinformatics Containers
 
 For more information please visit www.slubi.se. 
