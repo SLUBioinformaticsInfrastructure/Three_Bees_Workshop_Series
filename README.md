@@ -6,12 +6,13 @@ This is the repository for the collaborative workshop series between SLUBI and S
 As the workshop series progresses this repository will be filled with the contents of each instance. 
 
 Planned instances (dates and topics are not set in stone): 
-- Session27: in planning
+- Session29: Introduction to the command line
+- Tools for Reproducible Data Science
+- High Performance Clusters: How to get resources
 - Project planning with statistics in mind
 - Data management
 - Sequencing techniques
 - Quality control in sequencing data
-- Tools and tricks for reproducible research
 - Running pipelines with nf-core
 - Control your environment with Conda/ Pixi
 
@@ -44,5 +45,7 @@ Past instances:
 - Session24: 07th Apr 2025 Make pretty graphics - learn to ggplot in R
 - Session25: 05th May 2025 Q&A on Dardel, with HPC support staff
 - Session26: 19th May 2025 Working with Bioinformatics Containers
+- Session27: 03rd Nov 2025 Introduction to R
+- Session28: 17th Nov 2025 Visual Studio Code
 
 For more information please visit www.slubi.se. 
