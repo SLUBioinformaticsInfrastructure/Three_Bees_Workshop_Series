@@ -1,0 +1,98 @@
+[
+  {
+    "objectID": "sessions/session01-intro-to-r/index.html",
+    "href": "sessions/session01-intro-to-r/index.html",
+    "title": "Introduction to R",
+    "section": "",
+    "text": "A warm welcome to our new mini-workshop series “Basic Biostatistics & Bioinformatics”, where SLUBI and SLU’s Center for Statistics collaborate to bring you a mix of theoretical background and practical coding on a variety of topics.\nThis session we start the series with an Introduction to R.\nIf you want to code along please bring your own laptop with R and R-studio installed.",
+    "crumbs": [
+      "Home",
+      "R",
+      "1 · Introduction to R"
+    ]
+  },
+  {
+    "objectID": "sessions/session01-intro-to-r/index.html#overview",
+    "href": "sessions/session01-intro-to-r/index.html#overview",
+    "title": "Introduction to R",
+    "section": "",
+    "text": "A warm welcome to our new mini-workshop series “Basic Biostatistics & Bioinformatics”, where SLUBI and SLU’s Center for Statistics collaborate to bring you a mix of theoretical background and practical coding on a variety of topics.\nThis session we start the series with an Introduction to R.\nIf you want to code along please bring your own laptop with R and R-studio installed.",
+    "crumbs": [
+      "Home",
+      "R",
+      "1 · Introduction to R"
+    ]
+  },
+  {
+    "objectID": "sessions/session01-intro-to-r/index.html#materials",
+    "href": "sessions/session01-intro-to-r/index.html#materials",
+    "title": "Introduction to R",
+    "section": "Materials",
+    "text": "Materials\nLecture Introduction to R (PDF) — download\n\n\nTutorial Inftroduction to R (R script) — download",
+    "crumbs": [
+      "Home",
+      "R",
+      "1 · Introduction to R"
+    ]
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "Use the category filters on the right to find a topic (R, Python, HPC, statistics…), or search by keyword. Each card links to the session’s overview, slides, and any code or notebooks.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nIntroduction to R\n\n\nSession 1\n\n\n\nR\n\ncode-along\n\n\n\nFirst steps in R for biostatistics and bioinformatics.\n\n\n\nNov 14, 2023\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Home",
+      "All workshops"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "3B's Workshop Series",
+    "section": "",
+    "text": "Short lectures and hands-on tutorials in basic biostatistics and bioinformatics — a collaboration between SLUBI and the SLU Center for Statistics.\n\nBrowse the workshops Suggest a topic"
+  },
+  {
+    "objectID": "index.html#about-the-series",
+    "href": "index.html#about-the-series",
+    "title": "3B's Workshop Series",
+    "section": "About the series",
+    "text": "About the series\nThe 3 Bees — Basic Biostatistics & Bioinformatics is a series of short lectures and hands-on tutorials that introduce topics and methods to help with your research projects, especially (but not only) bioinformatics. It is a collaboration between SLU’s Center for Statistics and SLUBI, SLU’s bioinformatics infrastructure.\nEvery session is beginner-friendly — come to just listen, or bring a laptop and follow along. Slides, tutorials, and code from each session are collected here."
+  },
+  {
+    "objectID": "index.html#recent-sessions",
+    "href": "index.html#recent-sessions",
+    "title": "3B's Workshop Series",
+    "section": "Recent sessions",
+    "text": "Recent sessions\n\n\n\n\n\n\n\n\n\n\nIntroduction to R\n\n\nSession 1\n\n\n\nR\n\ncode-along\n\n\n\n\nNov 14, 2023\n\n\n\n\n\n\nNo matching items\n\nSee all workshops →"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the 3 Bees",
+    "section": "",
+    "text": "The 3 Bees — Basic Biostatistics & Bioinformatics is a series of short lectures and hands-on tutorials introducing topics and methods that help with research projects, especially (but not only) bioinformatics ones. It launched in November 2023 and runs roughly every other Monday at 09:45, online and on campus at SLU.\nIt is a collaboration between:"
+  },
+  {
+    "objectID": "about.html#how-it-works",
+    "href": "about.html#how-it-works",
+    "title": "About the 3 Bees",
+    "section": "How it works",
+    "text": "How it works\nEvery session is beginner-friendly. You are welcome to simply come and listen, or bring a laptop and code along. Slides, tutorials, scripts, and notebooks for each session are collected here and linked from every workshop’s page."
+  },
+  {
+    "objectID": "about.html#suggest-a-topic",
+    "href": "about.html#suggest-a-topic",
+    "title": "About the 3 Bees",
+    "section": "Suggest a topic",
+    "text": "Suggest a topic\nThe schedule is shaped by what people want to learn. If there is a topic you’d like us to cover, fill out our short questionnaire to influence the next round of workshops."
+  },
+  {
+    "objectID": "about.html#find-us",
+    "href": "about.html#find-us",
+    "title": "About the 3 Bees",
+    "section": "Find us",
+    "text": "Find us\n\nWebsite: www.slubi.se\nWorkshop archive on slubi.se: Seminars & Workshops\nSource for this site: GitHub"
+  }
+]

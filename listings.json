@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/workshops.html",
+    "items": [
+      "/sessions/session01-intro-to-r/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/sessions/session01-intro-to-r/index.html"
+    ]
+  }
+]
