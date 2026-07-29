@@ -52,3 +52,6 @@ format:
   html:
     theme: [cosmo, styles.scss]
     toc: true
+
+execute:
+  freeze: auto
