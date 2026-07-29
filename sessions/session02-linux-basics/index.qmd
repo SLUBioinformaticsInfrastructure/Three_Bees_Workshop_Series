@@ -1,0 +1,25 @@
+---
+title: "Introduction to the command line"
+subtitle: "Session 2"
+image: thumbnail.svg
+date: 2023-11-27
+author: "SLUBI"
+categories: [code-along, command-line]
+description: "Linux basics: navigating and working on the command line."
+---
+
+## Overview
+
+It is time for the second instalment in the 3 Bee’s workshop series. Thank-you to everyone that attended the first session!
+
+This time, we work on some Linux basics that you need when you start working on any cluster, whether it is Rackham on Uppmax, a departmental cluster, or any online server. We cover all of the basics from what the command line is, to how to navigate using the command line, make and edit files, and a whole bunch of other nifty tricks!
+
+The session is geared towards everyone that has never used the command line before, and for everyone that would like to refresh their memory.
+
+## Prerequisites
+
+ You are welcome to just come and listen. However, if you would like to practice your skills along with the tutorial and you don’t have access to a server or a Linux operating system on your computer, please download [MobaXterm](https://mobaxterm.mobatek.net/download.html) in preparation.  Mac users can use the terminal.
+
+## Materials
+
+_No downloadable materials for this session yet._

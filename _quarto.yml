@@ -48,6 +48,16 @@ website:
         contents:
           - text: "1 · Introduction to R"
             href: sessions/session01-intro-to-r/index.qmd
+      - section: "Statistics"
+        href: "workshops.qmd#category=statistics"
+        contents:
+          - text: "3 · PCA: Theory and Practice"
+            href: sessions/session03-pca/index.qmd
+      - section: "Command line"
+        href: "workshops.qmd#category=command-line"
+        contents:
+          - text: "2 · Introduction to the command line"
+            href: sessions/session02-linux-basics/index.qmd
 format:
   html:
     theme: [cosmo, styles.scss]

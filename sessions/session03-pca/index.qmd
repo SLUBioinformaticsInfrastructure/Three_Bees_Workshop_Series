@@ -1,0 +1,40 @@
+---
+title: "PCA: Theory and Practice"
+subtitle: "Session 3"
+image: thumbnail.svg
+date: 2023-12-11
+author: "SLUBI"
+categories: [statistics, code-along]
+description: "The theory and practice of principal component analysis."
+---
+
+## Overview
+
+It is time for the third installment of the 3 Bee’s workshop series from SLUBI and the SLU Centre for Statistics. 
+
+This time we will learn more about PCA’s!
+
+Adam will presents a short lecture on the theory behind PCA’s and what we can learn from them, and Lizel shows some commonly used R tools used to compute PCA’s on different kinds of data with an emphasis on data from an RNA sequencing project.
+
+## Prerequisites
+
+ You are welcome to just come and listen. If you would like to participate, please ensure that you have a working RStudio installed on your computer. Please install the following libraries in R with these easy commands:
+
+`if (!requireNamespace('BiocManager', quietly = TRUE))
+  install.packages('BiocManager')
+BiocManager::install('PCAtools')
+BiocManager::install("airway")
+BiocManager::install("org.Hs.eg.db")
+BiocManager::install("DESeq2")
+install.packages("tidyverse")
+install.packages("magrittr")`
+
+**Material:** This time, we follow this [tutorial](https://bioconductor.org/packages/devel/bioc/vignettes/PCAtools/inst/doc/PCAtools.html) where we focus on using a PCA on RNASeq data. The methods we show here are applicable for all kinds of data- not just RNASeq.
+
+## Materials
+
+**Lecture Basics of PCA (PDF)** — [download](Session03_Lecture_Basics-of-PCA.pdf)
+
+<iframe class="pdf-embed" src="Session03_Lecture_Basics-of-PCA.pdf" title="Lecture Basics of PCA (PDF)" loading="lazy"></iframe>
+
+**Tutorial Basics of PCA (R script)** — [download](Session03_Tutorial_Basics_of_PCA.R)
