@@ -5,8 +5,8 @@ This is the repository for the collaborative workshop series between SLUBI and S
 
 As the workshop series progresses this repository will be filled with the contents of each instance. 
 
-Planned instances (dates and topics are not set in stone): 
-- Session29: Introduction to the command line
+Possible future instances (dates and topics are not set in stone): 
+- Introduction to the command line
 - Tools for Reproducible Data Science
 - High Performance Clusters: How to get resources
 - Project planning with statistics in mind
