@@ -1,0 +1,20 @@
+---
+title: "Workshops"
+subtitle: "Every 3B's session — slides, tutorials, and code to take home."
+toc: false
+listing:
+  contents: "sessions/*/index.qmd"
+  type: grid
+  grid-columns: 3
+  sort: "date desc"
+  categories: true
+  sort-ui: [date, title]
+  filter-ui: true
+  fields: [image, title, subtitle, date, description, categories]
+  image-placeholder: logos/3bees_compact.png
+page-layout: full
+---
+
+Use the **category filters** on the right to find a topic (R, Python, HPC,
+statistics…), or search by keyword. Each card links to the session's overview,
+slides, and any code or notebooks.

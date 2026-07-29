@@ -1,0 +1,25 @@
+---
+title: "Introduction to R"
+subtitle: "Session 1"
+image: thumbnail.svg
+date: 2023-11-14
+author: "SLUBI"
+categories: [R, code-along]
+description: "First steps in R for biostatistics and bioinformatics."
+---
+
+## Overview
+
+A warm welcome to our new mini-workshop series “Basic Biostatistics & Bioinformatics”, where SLUBI and SLU’s Center for Statistics collaborate to bring you a mix of theoretical background and practical coding on a variety of topics.
+
+This session we start the series with an Introduction to R. 
+
+**If you want to code along please bring your own laptop with R and R-studio installed.**
+
+## Materials
+
+**Lecture Introduction to R (PDF)** — [download](Session01_Lecture_Introduction-to-R.pdf)
+
+<iframe class="pdf-embed" src="Session01_Lecture_Introduction-to-R.pdf" title="Lecture Introduction to R (PDF)" loading="lazy"></iframe>
+
+**Tutorial Inftroduction to R (R script)** — [download](Session01_Tutorial_Inftroduction_to_R.R)

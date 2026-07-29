@@ -1,0 +1,114 @@
+/*-- scss:defaults --*/
+
+// 3 Bees palette — honey & hive
+$honey:        #f2a900;   // primary amber
+$honey-dark:   #c98600;
+$honey-light:  #ffd666;
+$hive-black:   #2b2622;   // warm near-black
+$comb-cream:   #fff8e6;
+
+$primary:      $honey-dark;
+$body-color:   $hive-black;
+$link-color:   $honey-dark;
+$navbar-bg:    $hive-black;
+$navbar-fg:    #ffffff;
+$font-family-sans-serif: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+
+/*-- scss:rules --*/
+
+// ---- Landing hero -------------------------------------------------------
+.hero {
+  position: relative;
+  margin: 0 0 2.5rem;
+  padding: 3rem 1.5rem 2.5rem;
+  text-align: center;
+  color: $hive-black;
+  background-color: $comb-cream;
+  background-image:
+    radial-gradient(circle at 50% -20%, rgba($honey-light, .45), transparent 60%),
+    // honeycomb: two offset hex-dot layers
+    radial-gradient($honey-light 1.5px, transparent 1.6px),
+    radial-gradient($honey-light 1.5px, transparent 1.6px);
+  background-size: auto, 28px 48px, 28px 48px;
+  background-position: 0 0, 0 0, 14px 24px;
+  border-radius: 14px 14px 0 0;
+  border-bottom: 4px solid $honey;
+  overflow: hidden;
+}
+
+// White card around the logo: equal whitespace on every side.
+.logo-card {
+  display: inline-block;
+  background: #fff;
+  padding: 1.25rem 1.75rem;
+  border-radius: 16px;
+  box-shadow: 0 4px 18px rgba($honey-dark, .15);
+  margin-bottom: 1.25rem;
+}
+.logo-card img.hero-logo { display: block; width: min(420px, 70vw); margin: 0; }
+
+// Same treatment for the logo sitting in the sidebar.
+.sidebar-logo {
+  background: #fff;
+  padding: .5rem;
+  border-radius: 12px;
+  box-shadow: 0 1px 6px rgba($honey-dark, .12);
+}
+.hero .tagline {
+  font-size: 1.25rem;
+  font-weight: 400;
+  max-width: 640px;
+  margin: .5rem auto 1.6rem;
+  color: darken($hive-black, 2%);
+}
+.hero .btn {
+  margin: .25rem .35rem;
+  padding: .6rem 1.4rem;
+  font-weight: 600;
+  border-radius: 999px;
+}
+.btn-honey { background: $honey; border-color: $honey; color: $hive-black; }
+.btn-honey:hover { background: $honey-dark; border-color: $honey-dark; color: #fff; }
+.btn-hive { background: $hive-black; border-color: $hive-black; color: #fff; }
+.btn-hive:hover { background: lighten($hive-black, 12%); color: $honey-light; }
+
+// ---- Stat strip ---------------------------------------------------------
+.bee-stats ul {
+  display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;
+  margin: 0 0 2.5rem;
+  list-style: none; padding: 0;
+}
+.bee-stats li {
+  flex: 1 1 160px; max-width: 220px;
+  background: #fff; border: 1px solid rgba($honey, .35);
+  border-radius: 14px; padding: 1.1rem 1rem; text-align: center;
+  box-shadow: 0 2px 10px rgba($honey-dark, .08);
+}
+.bee-stats .num { display: block; font-size: 2rem; font-weight: 800; color: $honey-dark; line-height: 1; }
+.bee-stats .lbl { font-size: .9rem; color: lighten($hive-black, 20%); }
+
+// ---- Workshop listing cards --------------------------------------------
+.quarto-listing .card { border-radius: 14px; transition: transform .12s ease, box-shadow .12s ease; }
+.quarto-listing .card:hover { transform: translateY(-3px); box-shadow: 0 8px 22px rgba($honey-dark, .18); }
+.quarto-grid-item .listing-categories .listing-category {
+  background: rgba($honey, .16);
+  color: $honey-dark;
+  border: none; border-radius: 999px;
+  font-size: .72rem;
+}
+
+// Keep card thumbnails at the illustration's 4:3 aspect so the bee and the
+// corner emblem are never cropped (overrides Quarto's fixed 150px height).
+.quarto-listing .card .thumbnail-image {
+  height: auto !important;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+// Topic links in the sidebar use the brand honey colour.
+.sidebar-item-text[href*="category="] { color: $honey-dark; }
+
+// ---- Session page materials ---------------------------------------------
+.materials { background: $comb-cream; border-left: 4px solid $honey; border-radius: 8px; padding: .25rem 1.2rem; }
+.pdf-embed { width: 100%; height: 600px; border: 1px solid rgba($honey-dark, .3); border-radius: 8px; margin: .4rem 0 1.5rem; }

@@ -1,0 +1,31 @@
+---
+title: "About the 3 Bees"
+---
+
+The **3 Bees — Basic Biostatistics & Bioinformatics** is a series of short
+lectures and hands-on tutorials introducing topics and methods that help with
+research projects, especially (but not only) bioinformatics ones. It launched in
+**November 2023** and runs roughly **every other Monday at 09:45**, online and on campus at SLU.
+
+It is a collaboration between:
+
+- **[SLUBI](https://www.slubi.se)** — SLU's bioinformatics infrastructure
+- **SLU's Center for Statistics**
+
+## How it works
+
+Every session is beginner-friendly. You are welcome to simply come and listen,
+or bring a laptop and code along. Slides, tutorials, scripts, and notebooks for
+each session are collected here and linked from every workshop's page.
+
+## Suggest a topic
+
+The schedule is shaped by what people want to learn. If there is a topic you'd
+like us to cover, [fill out our short questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSfojHf02MqnsVTgKK_tE403ogGI1Pfi9vLg1A407w4SrQbIIw/viewform)
+to influence the next round of workshops.
+
+## Find us
+
+- Website: [www.slubi.se](https://www.slubi.se)
+- Workshop archive on slubi.se: [Seminars & Workshops](https://www.slubi.se/workshops.html)
+- Source for this site: [GitHub](https://github.com/SLUBioinformaticsInfrastructure/Three_Bees_Workshop_Series)

@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: _site
+  # Explicit render list keeps stray/legacy files out of the build.
+  render:
+    - index.qmd
+    - workshops.qmd
+    - about.qmd
+    # Only the session pages are rendered. All materials (.qmd/.Rmd/.ipynb/.pdf/...)
+    # are offered as downloads or embedded previews and are never executed.
+    - "sessions/**/index.qmd"
+
+website:
+  title: "3B's Workshop Series"
+  description: "Basic Biostatistics & Bioinformatics — a SLUBI x SLU Center for Statistics workshop series"
+  site-url: "https://slubioinformaticsinfrastructure.github.io/Three_Bees_Workshop_Series"
+  repo-url: "https://github.com/SLUBioinformaticsInfrastructure/Three_Bees_Workshop_Series"
+  favicon: logos/3bees_compact.png
+  page-footer:
+    border: true
+    left: "Run by [SLUBI](https://www.slubi.se) &amp; the SLU Center for Statistics"
+    right: "Built with [Quarto](https://quarto.org)"
+  navbar:
+    title: "3B's Workshop Series"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Workshops"
+        href: workshops.qmd
+      - text: "About"
+        href: about.qmd
+    right:
+      - text: "slubi.se"
+        href: https://www.slubi.se
+      - icon: github
+        href: https://github.com/SLUBioinformaticsInfrastructure/Three_Bees_Workshop_Series
+        aria-label: GitHub
+  sidebar:
+    logo: logos/3bees_compact.png
+    style: floating
+    search: false
+    collapse-level: 6
+    contents:
+      - text: "All workshops"
+        href: workshops.qmd
+      - section: "R"
+        href: "workshops.qmd#category=R"
+        contents:
+          - text: "1 · Introduction to R"
+            href: sessions/session01-intro-to-r/index.qmd
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: true
