@@ -2,12 +2,16 @@
   {
     "listing": "/workshops.html",
     "items": [
+      "/sessions/session03-pca/index.html",
+      "/sessions/session02-linux-basics/index.html",
       "/sessions/session01-intro-to-r/index.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
+      "/sessions/session03-pca/index.html",
+      "/sessions/session02-linux-basics/index.html",
       "/sessions/session01-intro-to-r/index.html"
     ]
   }

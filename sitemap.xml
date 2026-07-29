@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://slubioinformaticsinfrastructure.github.io/Three_Bees_Workshop_Series/sessions/session03-pca/index.html</loc>
+    <lastmod>2026-07-29T14:32:45.166Z</lastmod>
+  </url>
+  <url>
     <loc>https://slubioinformaticsinfrastructure.github.io/Three_Bees_Workshop_Series/sessions/session01-intro-to-r/index.html</loc>
-    <lastmod>2026-07-29T14:14:55.269Z</lastmod>
+    <lastmod>2026-07-29T14:32:45.157Z</lastmod>
   </url>
   <url>
     <loc>https://slubioinformaticsinfrastructure.github.io/Three_Bees_Workshop_Series/workshops.html</loc>
-    <lastmod>2026-07-29T14:14:55.269Z</lastmod>
+    <lastmod>2026-07-29T14:32:45.166Z</lastmod>
   </url>
   <url>
     <loc>https://slubioinformaticsinfrastructure.github.io/Three_Bees_Workshop_Series/index.html</loc>
-    <lastmod>2026-07-29T14:14:55.247Z</lastmod>
+    <lastmod>2026-07-29T14:32:45.133Z</lastmod>
   </url>
   <url>
     <loc>https://slubioinformaticsinfrastructure.github.io/Three_Bees_Workshop_Series/about.html</loc>
-    <lastmod>2026-07-29T14:14:55.235Z</lastmod>
+    <lastmod>2026-07-29T14:32:45.119Z</lastmod>
+  </url>
+  <url>
+    <loc>https://slubioinformaticsinfrastructure.github.io/Three_Bees_Workshop_Series/sessions/session02-linux-basics/index.html</loc>
+    <lastmod>2026-07-29T14:32:45.158Z</lastmod>
   </url>
 </urlset>

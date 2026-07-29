@@ -7,10 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="SLUBI">
-<meta name="dcterms.date" content="2023-11-14">
-<meta name="description" content="First steps in R for biostatistics and bioinformatics.">
+<meta name="dcterms.date" content="2023-11-27">
+<meta name="description" content="Linux basics: navigating and working on the command line.">
 
-<title>Introduction to R – 3B’s Workshop Series</title>
+<title>Introduction to the command line – 3B’s Workshop Series</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -132,7 +132,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../workshops.html#category=R">R</a></li><li class="breadcrumb-item"><a href="../../sessions/session01-intro-to-r/index.html">1 · Introduction to R</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../workshops.html#category=command-line">Command line</a></li><li class="breadcrumb-item"><a href="../../sessions/session02-linux-basics/index.html">2 · Introduction to the command line</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -167,7 +167,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../sessions/session01-intro-to-r/index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../sessions/session01-intro-to-r/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">1 · Introduction to R</span></a>
   </div>
 </li>
@@ -201,7 +201,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../sessions/session02-linux-basics/index.html" class="sidebar-item-text sidebar-link">
+  <a href="../../sessions/session02-linux-basics/index.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">2 · Introduction to the command line</span></a>
   </div>
 </li>
@@ -218,6 +218,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#prerequisites" id="toc-prerequisites" class="nav-link" data-scroll-target="#prerequisites">Prerequisites</a></li>
   <li><a href="#materials" id="toc-materials" class="nav-link" data-scroll-target="#materials">Materials</a></li>
   </ul>
 </nav>
@@ -225,19 +226,19 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../workshops.html#category=R">R</a></li><li class="breadcrumb-item"><a href="../../sessions/session01-intro-to-r/index.html">1 · Introduction to R</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../workshops.html#category=command-line">Command line</a></li><li class="breadcrumb-item"><a href="../../sessions/session02-linux-basics/index.html">2 · Introduction to the command line</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Introduction to R</h1>
-<p class="subtitle lead">Session 1</p>
+<h1 class="title">Introduction to the command line</h1>
+<p class="subtitle lead">Session 2</p>
   <div class="quarto-categories">
-    <div class="quarto-category">R</div>
     <div class="quarto-category">code-along</div>
+    <div class="quarto-category">command-line</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    First steps in R for biostatistics and bioinformatics.
+    Linux basics: navigating and working on the command line.
   </div>
 </div>
 
@@ -254,7 +255,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">November 14, 2023</p>
+      <p class="date">November 27, 2023</p>
     </div>
   </div>
   
@@ -268,16 +269,17 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>A warm welcome to our new mini-workshop series “Basic Biostatistics &amp; Bioinformatics”, where SLUBI and SLU’s Center for Statistics collaborate to bring you a mix of theoretical background and practical coding on a variety of topics.</p>
-<p>This session we start the series with an Introduction to R.</p>
-<p><strong>If you want to code along please bring your own laptop with R and R-studio installed.</strong></p>
+<p>It is time for the second instalment in the 3 Bee’s workshop series. Thank-you to everyone that attended the first session!</p>
+<p>This time, we work on some Linux basics that you need when you start working on any cluster, whether it is Rackham on Uppmax, a departmental cluster, or any online server. We cover all of the basics from what the command line is, to how to navigate using the command line, make and edit files, and a whole bunch of other nifty tricks!</p>
+<p>The session is geared towards everyone that has never used the command line before, and for everyone that would like to refresh their memory.</p>
+</section>
+<section id="prerequisites" class="level2">
+<h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
+<p>You are welcome to just come and listen. However, if you would like to practice your skills along with the tutorial and you don’t have access to a server or a Linux operating system on your computer, please download <a href="https://mobaxterm.mobatek.net/download.html">MobaXterm</a> in preparation. Mac users can use the terminal.</p>
 </section>
 <section id="materials" class="level2">
 <h2 class="anchored" data-anchor-id="materials">Materials</h2>
-<p><strong>Lecture Introduction to R (PDF)</strong> — <a href="Session01_Lecture_Introduction-to-R.pdf">download</a></p>
-<iframe class="pdf-embed" src="Session01_Lecture_Introduction-to-R.pdf" title="Lecture Introduction to R (PDF)" loading="lazy">
-</iframe>
-<p><strong>Tutorial Inftroduction to R (R script)</strong> — <a href="Session01_Tutorial_Inftroduction_to_R.R">download</a></p>
+<p><em>No downloadable materials for this session yet.</em></p>
 
 
 </section>

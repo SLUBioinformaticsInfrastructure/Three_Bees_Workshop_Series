@@ -1,5 +1,53 @@
 [
   {
+    "objectID": "sessions/session03-pca/index.html",
+    "href": "sessions/session03-pca/index.html",
+    "title": "PCA: Theory and Practice",
+    "section": "",
+    "text": "It is time for the third installment of the 3 Bee’s workshop series from SLUBI and the SLU Centre for Statistics.\nThis time we will learn more about PCA’s!\nAdam will presents a short lecture on the theory behind PCA’s and what we can learn from them, and Lizel shows some commonly used R tools used to compute PCA’s on different kinds of data with an emphasis on data from an RNA sequencing project.",
+    "crumbs": [
+      "Home",
+      "Statistics",
+      "3 · PCA: Theory and Practice"
+    ]
+  },
+  {
+    "objectID": "sessions/session03-pca/index.html#overview",
+    "href": "sessions/session03-pca/index.html#overview",
+    "title": "PCA: Theory and Practice",
+    "section": "",
+    "text": "It is time for the third installment of the 3 Bee’s workshop series from SLUBI and the SLU Centre for Statistics.\nThis time we will learn more about PCA’s!\nAdam will presents a short lecture on the theory behind PCA’s and what we can learn from them, and Lizel shows some commonly used R tools used to compute PCA’s on different kinds of data with an emphasis on data from an RNA sequencing project.",
+    "crumbs": [
+      "Home",
+      "Statistics",
+      "3 · PCA: Theory and Practice"
+    ]
+  },
+  {
+    "objectID": "sessions/session03-pca/index.html#prerequisites",
+    "href": "sessions/session03-pca/index.html#prerequisites",
+    "title": "PCA: Theory and Practice",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nYou are welcome to just come and listen. If you would like to participate, please ensure that you have a working RStudio installed on your computer. Please install the following libraries in R with these easy commands:\nif (!requireNamespace('BiocManager', quietly = TRUE))   install.packages('BiocManager') BiocManager::install('PCAtools') BiocManager::install(\"airway\") BiocManager::install(\"org.Hs.eg.db\") BiocManager::install(\"DESeq2\") install.packages(\"tidyverse\") install.packages(\"magrittr\")\nMaterial: This time, we follow this tutorial where we focus on using a PCA on RNASeq data. The methods we show here are applicable for all kinds of data- not just RNASeq.",
+    "crumbs": [
+      "Home",
+      "Statistics",
+      "3 · PCA: Theory and Practice"
+    ]
+  },
+  {
+    "objectID": "sessions/session03-pca/index.html#materials",
+    "href": "sessions/session03-pca/index.html#materials",
+    "title": "PCA: Theory and Practice",
+    "section": "Materials",
+    "text": "Materials\nLecture Basics of PCA (PDF) — download\n\n\nTutorial Basics of PCA (R script) — download",
+    "crumbs": [
+      "Home",
+      "Statistics",
+      "3 · PCA: Theory and Practice"
+    ]
+  },
+  {
     "objectID": "sessions/session01-intro-to-r/index.html",
     "href": "sessions/session01-intro-to-r/index.html",
     "title": "Introduction to R",
@@ -40,7 +88,7 @@
     "href": "workshops.html",
     "title": "Workshops",
     "section": "",
-    "text": "Use the category filters on the right to find a topic (R, Python, HPC, statistics…), or search by keyword. Each card links to the session’s overview, slides, and any code or notebooks.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nIntroduction to R\n\n\nSession 1\n\n\n\nR\n\ncode-along\n\n\n\nFirst steps in R for biostatistics and bioinformatics.\n\n\n\nNov 14, 2023\n\n\n\n\n\n\nNo matching items",
+    "text": "Use the category filters on the right to find a topic (R, Python, HPC, statistics…), or search by keyword. Each card links to the session’s overview, slides, and any code or notebooks.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPCA: Theory and Practice\n\n\nSession 3\n\n\n\nstatistics\n\ncode-along\n\n\n\nThe theory and practice of principal component analysis.\n\n\n\nDec 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to the command line\n\n\nSession 2\n\n\n\ncode-along\n\ncommand-line\n\n\n\nLinux basics: navigating and working on the command line.\n\n\n\nNov 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R\n\n\nSession 1\n\n\n\nR\n\ncode-along\n\n\n\nFirst steps in R for biostatistics and bioinformatics.\n\n\n\nNov 14, 2023\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Home",
       "All workshops"
@@ -65,7 +113,7 @@
     "href": "index.html#recent-sessions",
     "title": "3B's Workshop Series",
     "section": "Recent sessions",
-    "text": "Recent sessions\n\n\n\n\n\n\n\n\n\n\nIntroduction to R\n\n\nSession 1\n\n\n\nR\n\ncode-along\n\n\n\n\nNov 14, 2023\n\n\n\n\n\n\nNo matching items\n\nSee all workshops →"
+    "text": "Recent sessions\n\n\n\n\n\n\n\n\n\n\nPCA: Theory and Practice\n\n\nSession 3\n\n\n\nstatistics\n\ncode-along\n\n\n\n\nDec 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to the command line\n\n\nSession 2\n\n\n\ncode-along\n\ncommand-line\n\n\n\n\nNov 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R\n\n\nSession 1\n\n\n\nR\n\ncode-along\n\n\n\n\nNov 14, 2023\n\n\n\n\n\n\nNo matching items\n\nSee all workshops →"
   },
   {
     "objectID": "about.html",
@@ -94,5 +142,53 @@
     "title": "About the 3 Bees",
     "section": "Find us",
     "text": "Find us\n\nWebsite: www.slubi.se\nWorkshop archive on slubi.se: Seminars & Workshops\nSource for this site: GitHub"
+  },
+  {
+    "objectID": "sessions/session02-linux-basics/index.html",
+    "href": "sessions/session02-linux-basics/index.html",
+    "title": "Introduction to the command line",
+    "section": "",
+    "text": "It is time for the second instalment in the 3 Bee’s workshop series. Thank-you to everyone that attended the first session!\nThis time, we work on some Linux basics that you need when you start working on any cluster, whether it is Rackham on Uppmax, a departmental cluster, or any online server. We cover all of the basics from what the command line is, to how to navigate using the command line, make and edit files, and a whole bunch of other nifty tricks!\nThe session is geared towards everyone that has never used the command line before, and for everyone that would like to refresh their memory.",
+    "crumbs": [
+      "Home",
+      "Command line",
+      "2 · Introduction to the command line"
+    ]
+  },
+  {
+    "objectID": "sessions/session02-linux-basics/index.html#overview",
+    "href": "sessions/session02-linux-basics/index.html#overview",
+    "title": "Introduction to the command line",
+    "section": "",
+    "text": "It is time for the second instalment in the 3 Bee’s workshop series. Thank-you to everyone that attended the first session!\nThis time, we work on some Linux basics that you need when you start working on any cluster, whether it is Rackham on Uppmax, a departmental cluster, or any online server. We cover all of the basics from what the command line is, to how to navigate using the command line, make and edit files, and a whole bunch of other nifty tricks!\nThe session is geared towards everyone that has never used the command line before, and for everyone that would like to refresh their memory.",
+    "crumbs": [
+      "Home",
+      "Command line",
+      "2 · Introduction to the command line"
+    ]
+  },
+  {
+    "objectID": "sessions/session02-linux-basics/index.html#prerequisites",
+    "href": "sessions/session02-linux-basics/index.html#prerequisites",
+    "title": "Introduction to the command line",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nYou are welcome to just come and listen. However, if you would like to practice your skills along with the tutorial and you don’t have access to a server or a Linux operating system on your computer, please download MobaXterm in preparation. Mac users can use the terminal.",
+    "crumbs": [
+      "Home",
+      "Command line",
+      "2 · Introduction to the command line"
+    ]
+  },
+  {
+    "objectID": "sessions/session02-linux-basics/index.html#materials",
+    "href": "sessions/session02-linux-basics/index.html#materials",
+    "title": "Introduction to the command line",
+    "section": "Materials",
+    "text": "Materials\nNo downloadable materials for this session yet.",
+    "crumbs": [
+      "Home",
+      "Command line",
+      "2 · Introduction to the command line"
+    ]
   }
 ]
