@@ -1,5 +1,533 @@
 [
   {
+    "objectID": "sessions/session18-pca/index.html",
+    "href": "sessions/session18-pca/index.html",
+    "title": "PCA - Theory and Practice",
+    "section": "",
+    "text": "This instance we present a short lecture on the theory behind PCA and what we can learn from them, and then show some commonly used R tools used to perform PCA on different kinds of data with an emphasis on data from a RNA sequencing project.",
+    "crumbs": [
+      "Home",
+      "Statistics",
+      "18 · PCA - Theory and Practice"
+    ]
+  },
+  {
+    "objectID": "sessions/session18-pca/index.html#overview",
+    "href": "sessions/session18-pca/index.html#overview",
+    "title": "PCA - Theory and Practice",
+    "section": "",
+    "text": "This instance we present a short lecture on the theory behind PCA and what we can learn from them, and then show some commonly used R tools used to perform PCA on different kinds of data with an emphasis on data from a RNA sequencing project.",
+    "crumbs": [
+      "Home",
+      "Statistics",
+      "18 · PCA - Theory and Practice"
+    ]
+  },
+  {
+    "objectID": "sessions/session18-pca/index.html#prerequisites",
+    "href": "sessions/session18-pca/index.html#prerequisites",
+    "title": "PCA - Theory and Practice",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nYou are welcome to sit in and listen. However, if you would like to follow the practical part, please bring your computer with Rstudio installed.",
+    "crumbs": [
+      "Home",
+      "Statistics",
+      "18 · PCA - Theory and Practice"
+    ]
+  },
+  {
+    "objectID": "sessions/session18-pca/index.html#materials",
+    "href": "sessions/session18-pca/index.html#materials",
+    "title": "PCA - Theory and Practice",
+    "section": "Materials",
+    "text": "Materials\nBasics of PCA (PDF) — download\n\n\nPenguins pca (R Markdown) — download",
+    "crumbs": [
+      "Home",
+      "Statistics",
+      "18 · PCA - Theory and Practice"
+    ]
+  },
+  {
+    "objectID": "sessions/session16-dardel/index.html",
+    "href": "sessions/session16-dardel/index.html",
+    "title": "Introduction to the Dardel Supercomputer",
+    "section": "",
+    "text": "We are thrilled to have Henric Zazzi join us for this session, where he will provide an introduction to the ”new” Dardel supercomputer, which will replace Uppmax for many of us in the coming year. Henric will give us an introduction to the system and walk us through how to log in and start using it, making this an excellent opportunity for anyone interested in high-performance computing or planning to work with Dardel in the future.\nGuest speaker: Henric Zazzi, Head of Support for Dardel",
+    "crumbs": [
+      "Home",
+      "HPC & clusters",
+      "16 · Introduction to the Dardel Supercomputer"
+    ]
+  },
+  {
+    "objectID": "sessions/session16-dardel/index.html#overview",
+    "href": "sessions/session16-dardel/index.html#overview",
+    "title": "Introduction to the Dardel Supercomputer",
+    "section": "",
+    "text": "We are thrilled to have Henric Zazzi join us for this session, where he will provide an introduction to the ”new” Dardel supercomputer, which will replace Uppmax for many of us in the coming year. Henric will give us an introduction to the system and walk us through how to log in and start using it, making this an excellent opportunity for anyone interested in high-performance computing or planning to work with Dardel in the future.\nGuest speaker: Henric Zazzi, Head of Support for Dardel",
+    "crumbs": [
+      "Home",
+      "HPC & clusters",
+      "16 · Introduction to the Dardel Supercomputer"
+    ]
+  },
+  {
+    "objectID": "sessions/session16-dardel/index.html#prerequisites",
+    "href": "sessions/session16-dardel/index.html#prerequisites",
+    "title": "Introduction to the Dardel Supercomputer",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nTo get the most out of the session, please make sure you have a PDC account set up beforehand. You can read about creating one here: https://www.pdc.kth.se/support/documents/getting_access/get_access.html.\nIf you’re just curious and want to listen in, that’s also perfectly fine!",
+    "crumbs": [
+      "Home",
+      "HPC & clusters",
+      "16 · Introduction to the Dardel Supercomputer"
+    ]
+  },
+  {
+    "objectID": "sessions/session16-dardel/index.html#materials",
+    "href": "sessions/session16-dardel/index.html#materials",
+    "title": "Introduction to the Dardel Supercomputer",
+    "section": "Materials",
+    "text": "Materials\nIntroduction pdc Dardel (PDF) — download",
+    "crumbs": [
+      "Home",
+      "HPC & clusters",
+      "16 · Introduction to the Dardel Supercomputer"
+    ]
+  },
+  {
+    "objectID": "sessions/session14-shiny/index.html",
+    "href": "sessions/session14-shiny/index.html",
+    "title": "Shiny - interactive data visualization in R",
+    "section": "",
+    "text": "For this last session before the summer we will have a quick look at using Shiny to create interactive data visualisations. Come and make your come to life!",
+    "crumbs": [
+      "Home",
+      "R",
+      "14 · Shiny - interactive data visualization in R"
+    ]
+  },
+  {
+    "objectID": "sessions/session14-shiny/index.html#overview",
+    "href": "sessions/session14-shiny/index.html#overview",
+    "title": "Shiny - interactive data visualization in R",
+    "section": "",
+    "text": "For this last session before the summer we will have a quick look at using Shiny to create interactive data visualisations. Come and make your come to life!",
+    "crumbs": [
+      "Home",
+      "R",
+      "14 · Shiny - interactive data visualization in R"
+    ]
+  },
+  {
+    "objectID": "sessions/session14-shiny/index.html#prerequisites",
+    "href": "sessions/session14-shiny/index.html#prerequisites",
+    "title": "Shiny - interactive data visualization in R",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nIf you would like to prepare something in advance, have a look at https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html. As always, you are more than welcome to come listen and learn without any preparation.",
+    "crumbs": [
+      "Home",
+      "R",
+      "14 · Shiny - interactive data visualization in R"
+    ]
+  },
+  {
+    "objectID": "sessions/session14-shiny/index.html#materials",
+    "href": "sessions/session14-shiny/index.html#materials",
+    "title": "Shiny - interactive data visualization in R",
+    "section": "Materials",
+    "text": "Materials\nLecture (PDF) — download\n\n\nPractical (R script) — download",
+    "crumbs": [
+      "Home",
+      "R",
+      "14 · Shiny - interactive data visualization in R"
+    ]
+  },
+  {
+    "objectID": "sessions/session12-git-github/index.html",
+    "href": "sessions/session12-git-github/index.html",
+    "title": "Introduction to git and Github",
+    "section": "",
+    "text": "In this 3 Bees session we continue with our tips and tricks for reproducible research with a look at git and GitHub. Git is a useful tool to track the development of your work, to collaborate with others, and to share analyses with the world.\nWe give an introduction to git using the interface in RStudio and show how one can link local work to an online repository. GitHub is not just useful in R, but across all forms of science.\nThis includes a short presentation followed by some interactive exercises.",
+    "crumbs": [
+      "Home",
+      "Reproducibility",
+      "12 · Introduction to git and Github"
+    ]
+  },
+  {
+    "objectID": "sessions/session12-git-github/index.html#overview",
+    "href": "sessions/session12-git-github/index.html#overview",
+    "title": "Introduction to git and Github",
+    "section": "",
+    "text": "In this 3 Bees session we continue with our tips and tricks for reproducible research with a look at git and GitHub. Git is a useful tool to track the development of your work, to collaborate with others, and to share analyses with the world.\nWe give an introduction to git using the interface in RStudio and show how one can link local work to an online repository. GitHub is not just useful in R, but across all forms of science.\nThis includes a short presentation followed by some interactive exercises.",
+    "crumbs": [
+      "Home",
+      "Reproducibility",
+      "12 · Introduction to git and Github"
+    ]
+  },
+  {
+    "objectID": "sessions/session12-git-github/index.html#prerequisites",
+    "href": "sessions/session12-git-github/index.html#prerequisites",
+    "title": "Introduction to git and Github",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nIf you want to follow along the exercises, please download git from https://git-scm.com/ and get an account on github.com. Otherwise just come and listen in!",
+    "crumbs": [
+      "Home",
+      "Reproducibility",
+      "12 · Introduction to git and Github"
+    ]
+  },
+  {
+    "objectID": "sessions/session12-git-github/index.html#materials",
+    "href": "sessions/session12-git-github/index.html#materials",
+    "title": "Introduction to git and Github",
+    "section": "Materials",
+    "text": "Materials\nGit and github (PDF) — download",
+    "crumbs": [
+      "Home",
+      "Reproducibility",
+      "12 · Introduction to git and Github"
+    ]
+  },
+  {
+    "objectID": "sessions/session10-intro-to-hpc/index.html",
+    "href": "sessions/session10-intro-to-hpc/index.html",
+    "title": "Introduction to High performance Computing (HPC)",
+    "section": "",
+    "text": "Join us to learn the basics of high performance computing. We will have a brief overview of HPC facilities in Sweden, how to log in, and how to use the job queuing system, Slurm. We will also have a quick look at how to apply for projects on these clusters.\nAfter a short lecture, we will show how to access Rackham from UPPMAX with Visual Studio Code. If you are new to using clusters, this session is for you!",
+    "crumbs": [
+      "Home",
+      "HPC & clusters",
+      "10 · Introduction to High performance Computing (HPC)"
+    ]
+  },
+  {
+    "objectID": "sessions/session10-intro-to-hpc/index.html#overview",
+    "href": "sessions/session10-intro-to-hpc/index.html#overview",
+    "title": "Introduction to High performance Computing (HPC)",
+    "section": "",
+    "text": "Join us to learn the basics of high performance computing. We will have a brief overview of HPC facilities in Sweden, how to log in, and how to use the job queuing system, Slurm. We will also have a quick look at how to apply for projects on these clusters.\nAfter a short lecture, we will show how to access Rackham from UPPMAX with Visual Studio Code. If you are new to using clusters, this session is for you!",
+    "crumbs": [
+      "Home",
+      "HPC & clusters",
+      "10 · Introduction to High performance Computing (HPC)"
+    ]
+  },
+  {
+    "objectID": "sessions/session10-intro-to-hpc/index.html#prerequisites",
+    "href": "sessions/session10-intro-to-hpc/index.html#prerequisites",
+    "title": "Introduction to High performance Computing (HPC)",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nIf you would like to follow along, please ensure that you have VSCode installed.",
+    "crumbs": [
+      "Home",
+      "HPC & clusters",
+      "10 · Introduction to High performance Computing (HPC)"
+    ]
+  },
+  {
+    "objectID": "sessions/session10-intro-to-hpc/index.html#materials",
+    "href": "sessions/session10-intro-to-hpc/index.html#materials",
+    "title": "Introduction to High performance Computing (HPC)",
+    "section": "Materials",
+    "text": "Materials\nIntro hpc (PDF) — download",
+    "crumbs": [
+      "Home",
+      "HPC & clusters",
+      "10 · Introduction to High performance Computing (HPC)"
+    ]
+  },
+  {
+    "objectID": "sessions/session08-neural-networks/index.html",
+    "href": "sessions/session08-neural-networks/index.html",
+    "title": "Introduction to Neural Networks",
+    "section": "",
+    "text": "In this session where we will go through theory and practice of neural network training. Several steps of the lecture will be illustrated on Google Colab notebooks in order for them to be easily reproducible by participants during the class.",
+    "crumbs": [
+      "Home",
+      "Python",
+      "8 · Introduction to Neural Networks"
+    ]
+  },
+  {
+    "objectID": "sessions/session08-neural-networks/index.html#overview",
+    "href": "sessions/session08-neural-networks/index.html#overview",
+    "title": "Introduction to Neural Networks",
+    "section": "",
+    "text": "In this session where we will go through theory and practice of neural network training. Several steps of the lecture will be illustrated on Google Colab notebooks in order for them to be easily reproducible by participants during the class.",
+    "crumbs": [
+      "Home",
+      "Python",
+      "8 · Introduction to Neural Networks"
+    ]
+  },
+  {
+    "objectID": "sessions/session08-neural-networks/index.html#prerequisites",
+    "href": "sessions/session08-neural-networks/index.html#prerequisites",
+    "title": "Introduction to Neural Networks",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nTo follow the course and the exercises please have a google account ready! This session build on Session 7 - Introduction to Python.\nHowever, as always, you are most welcome to drop by and listen without participating!",
+    "crumbs": [
+      "Home",
+      "Python",
+      "8 · Introduction to Neural Networks"
+    ]
+  },
+  {
+    "objectID": "sessions/session08-neural-networks/index.html#materials",
+    "href": "sessions/session08-neural-networks/index.html#materials",
+    "title": "Introduction to Neural Networks",
+    "section": "Materials",
+    "text": "Materials\nNotebook NeuralNetworks (Jupyter notebook) — download\nREADME Neural Networks (text file) — download\nSlides NeuralNetworks (PDF) — download",
+    "crumbs": [
+      "Home",
+      "Python",
+      "8 · Introduction to Neural Networks"
+    ]
+  },
+  {
+    "objectID": "sessions/session06-functions-in-r/index.html",
+    "href": "sessions/session06-functions-in-r/index.html",
+    "title": "Introduction to writing functions in R",
+    "section": "",
+    "text": "For the sixth session of the 3 B’s series, we talk about how to write your own functions in R. Very handy of you want to wrap code you are using over and over again into a re-usable function!",
+    "crumbs": [
+      "Home",
+      "R",
+      "6 · Introduction to writing functions in R"
+    ]
+  },
+  {
+    "objectID": "sessions/session06-functions-in-r/index.html#overview",
+    "href": "sessions/session06-functions-in-r/index.html#overview",
+    "title": "Introduction to writing functions in R",
+    "section": "",
+    "text": "For the sixth session of the 3 B’s series, we talk about how to write your own functions in R. Very handy of you want to wrap code you are using over and over again into a re-usable function!",
+    "crumbs": [
+      "Home",
+      "R",
+      "6 · Introduction to writing functions in R"
+    ]
+  },
+  {
+    "objectID": "sessions/session06-functions-in-r/index.html#prerequisites",
+    "href": "sessions/session06-functions-in-r/index.html#prerequisites",
+    "title": "Introduction to writing functions in R",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nIf you would like to prepare in advance, please have a look at this tutorial, and see here for additional content.\nAs always, you are most welcome to drop by and listen without participating.",
+    "crumbs": [
+      "Home",
+      "R",
+      "6 · Introduction to writing functions in R"
+    ]
+  },
+  {
+    "objectID": "sessions/session06-functions-in-r/index.html#materials",
+    "href": "sessions/session06-functions-in-r/index.html#materials",
+    "title": "Introduction to writing functions in R",
+    "section": "Materials",
+    "text": "Materials\nWriting your own functions in R (PDF) — download",
+    "crumbs": [
+      "Home",
+      "R",
+      "6 · Introduction to writing functions in R"
+    ]
+  },
+  {
+    "objectID": "sessions/session04-markdown/index.html",
+    "href": "sessions/session04-markdown/index.html",
+    "title": "Introduction to Markdown",
+    "section": "",
+    "text": "We wish you all a happy continuation of the new year!\nFor the fourth session of the 3 B’s series, we cover some of the basics of Markdown.\nMarkdown is a reporting language with several applications in scientific communication. With this, you are able to seamlessly render reproducible reports in PDF and HTML formats to include text, code and figures in an aesthetically pleasing way.\nWe will address basic syntax, applications in R and VSCode, and a new iteration of markdown in the form of Quarto.",
+    "crumbs": [
+      "Home",
+      "Reproducibility",
+      "4 · Introduction to Markdown"
+    ]
+  },
+  {
+    "objectID": "sessions/session04-markdown/index.html#overview",
+    "href": "sessions/session04-markdown/index.html#overview",
+    "title": "Introduction to Markdown",
+    "section": "",
+    "text": "We wish you all a happy continuation of the new year!\nFor the fourth session of the 3 B’s series, we cover some of the basics of Markdown.\nMarkdown is a reporting language with several applications in scientific communication. With this, you are able to seamlessly render reproducible reports in PDF and HTML formats to include text, code and figures in an aesthetically pleasing way.\nWe will address basic syntax, applications in R and VSCode, and a new iteration of markdown in the form of Quarto.",
+    "crumbs": [
+      "Home",
+      "Reproducibility",
+      "4 · Introduction to Markdown"
+    ]
+  },
+  {
+    "objectID": "sessions/session04-markdown/index.html#prerequisites",
+    "href": "sessions/session04-markdown/index.html#prerequisites",
+    "title": "Introduction to Markdown",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nIf you would like to prepare in advance, have a look at this guide.\nAs always, you are most welcome to drop by and listen without participating.",
+    "crumbs": [
+      "Home",
+      "Reproducibility",
+      "4 · Introduction to Markdown"
+    ]
+  },
+  {
+    "objectID": "sessions/session04-markdown/index.html#materials",
+    "href": "sessions/session04-markdown/index.html#materials",
+    "title": "Introduction to Markdown",
+    "section": "Materials",
+    "text": "Materials\nLecture markdown (PDF) — download",
+    "crumbs": [
+      "Home",
+      "Reproducibility",
+      "4 · Introduction to Markdown"
+    ]
+  },
+  {
+    "objectID": "sessions/session02-linux-basics/index.html",
+    "href": "sessions/session02-linux-basics/index.html",
+    "title": "Introduction to the command line",
+    "section": "",
+    "text": "It is time for the second instalment in the 3 Bee’s workshop series. Thank-you to everyone that attended the first session!\nThis time, we work on some Linux basics that you need when you start working on any cluster, whether it is Rackham on Uppmax, a departmental cluster, or any online server. We cover all of the basics from what the command line is, to how to navigate using the command line, make and edit files, and a whole bunch of other nifty tricks!\nThe session is geared towards everyone that has never used the command line before, and for everyone that would like to refresh their memory.",
+    "crumbs": [
+      "Home",
+      "Command line",
+      "2 · Introduction to the command line"
+    ]
+  },
+  {
+    "objectID": "sessions/session02-linux-basics/index.html#overview",
+    "href": "sessions/session02-linux-basics/index.html#overview",
+    "title": "Introduction to the command line",
+    "section": "",
+    "text": "It is time for the second instalment in the 3 Bee’s workshop series. Thank-you to everyone that attended the first session!\nThis time, we work on some Linux basics that you need when you start working on any cluster, whether it is Rackham on Uppmax, a departmental cluster, or any online server. We cover all of the basics from what the command line is, to how to navigate using the command line, make and edit files, and a whole bunch of other nifty tricks!\nThe session is geared towards everyone that has never used the command line before, and for everyone that would like to refresh their memory.",
+    "crumbs": [
+      "Home",
+      "Command line",
+      "2 · Introduction to the command line"
+    ]
+  },
+  {
+    "objectID": "sessions/session02-linux-basics/index.html#prerequisites",
+    "href": "sessions/session02-linux-basics/index.html#prerequisites",
+    "title": "Introduction to the command line",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nYou are welcome to just come and listen. However, if you would like to practice your skills along with the tutorial and you don’t have access to a server or a Linux operating system on your computer, please download MobaXterm in preparation. Mac users can use the terminal.",
+    "crumbs": [
+      "Home",
+      "Command line",
+      "2 · Introduction to the command line"
+    ]
+  },
+  {
+    "objectID": "sessions/session02-linux-basics/index.html#materials",
+    "href": "sessions/session02-linux-basics/index.html#materials",
+    "title": "Introduction to the command line",
+    "section": "Materials",
+    "text": "Materials\nNo downloadable materials for this session.",
+    "crumbs": [
+      "Home",
+      "Command line",
+      "2 · Introduction to the command line"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the 3 Bees",
+    "section": "",
+    "text": "The 3 Bees — Basic Biostatistics & Bioinformatics is a series of short lectures and hands-on tutorials introducing topics and methods that help with research projects, especially (but not only) bioinformatics ones. It launched in November 2023 and runs roughly every other Monday at 09:45, online and on campus at SLU.\nIt is a collaboration between:"
+  },
+  {
+    "objectID": "about.html#how-it-works",
+    "href": "about.html#how-it-works",
+    "title": "About the 3 Bees",
+    "section": "How it works",
+    "text": "How it works\nEvery session is beginner-friendly. You are welcome to simply come and listen, or bring a laptop and code along. Slides, tutorials, scripts, and notebooks for each session are collected here and linked from every workshop’s page."
+  },
+  {
+    "objectID": "about.html#suggest-a-topic",
+    "href": "about.html#suggest-a-topic",
+    "title": "About the 3 Bees",
+    "section": "Suggest a topic",
+    "text": "Suggest a topic\nThe schedule is shaped by what people want to learn. If there is a topic you’d like us to cover, fill out our short questionnaire to influence the next round of workshops."
+  },
+  {
+    "objectID": "about.html#find-us",
+    "href": "about.html#find-us",
+    "title": "About the 3 Bees",
+    "section": "Find us",
+    "text": "Find us\n\nWebsite: www.slubi.se\nWorkshop archive on slubi.se: Seminars & Workshops\nSource for this site: GitHub"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "3B's Workshop Series",
+    "section": "",
+    "text": "Short lectures and hands-on tutorials in basic biostatistics and bioinformatics — a collaboration between SLUBI and the SLU Center for Statistics.\n\nBrowse the workshops Suggest a topic"
+  },
+  {
+    "objectID": "index.html#about-the-series",
+    "href": "index.html#about-the-series",
+    "title": "3B's Workshop Series",
+    "section": "About the series",
+    "text": "About the series\nThe 3 Bees — Basic Biostatistics & Bioinformatics is a series of short lectures and hands-on tutorials that introduce topics and methods to help with your research projects, especially (but not only) bioinformatics. It is a collaboration between SLU’s Center for Statistics and SLUBI, SLU’s bioinformatics infrastructure.\nEvery session is beginner-friendly — come to just listen, or bring a laptop and follow along. Slides, tutorials, and code from each session are collected here."
+  },
+  {
+    "objectID": "index.html#recent-sessions",
+    "href": "index.html#recent-sessions",
+    "title": "3B's Workshop Series",
+    "section": "Recent sessions",
+    "text": "Recent sessions\n\n\n\n\n\n\n\n\n\n\nPCA - Theory and Practice\n\n\nSession 18\n\n\n\nstatistics\n\ncode-along\n\n\n\n\nDec 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R\n\n\nSession 17\n\n\n\nR\n\ncode-along\n\n\n\n\nOct 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to the Dardel Supercomputer\n\n\nSession 16\n\n\n\nHPC\n\n\n\n\nOct 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to the command line\n\n\nSession 15\n\n\n\ncode-along\n\ncommand-line\n\n\n\n\nSep 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nShiny - interactive data visualization in R\n\n\nSession 14\n\n\n\ncode-along\n\nR\n\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject organization in R\n\n\nSession 13\n\n\n\nreproducibility\n\nR\n\n\n\n\nJun 17, 2024\n\n\n\n\n\n\nNo matching items\n\nSee all workshops →"
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "Use the category filters on the right to find a topic (R, Python, HPC, statistics…), or search by keyword. Each card links to the session’s overview, slides, and any code or notebooks.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPCA - Theory and Practice\n\n\nSession 18\n\n\n\nstatistics\n\ncode-along\n\n\n\nThe theory and practice of principal component analysis.\n\n\n\nDec 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R\n\n\nSession 17\n\n\n\nR\n\ncode-along\n\n\n\nA refresher on the basics of R.\n\n\n\nOct 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to the Dardel Supercomputer\n\n\nSession 16\n\n\n\nHPC\n\n\n\nGetting started on the Dardel supercomputer at PDC.\n\n\n\nOct 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to the command line\n\n\nSession 15\n\n\n\ncode-along\n\ncommand-line\n\n\n\nCommand-line basics for working on clusters.\n\n\n\nSep 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nShiny - interactive data visualization in R\n\n\nSession 14\n\n\n\ncode-along\n\nR\n\n\n\nBuilding interactive apps in R with Shiny.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject organization in R\n\n\nSession 13\n\n\n\nreproducibility\n\nR\n\n\n\nKeeping R projects organised and manageable.\n\n\n\nJun 17, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to git and Github\n\n\nSession 12\n\n\n\ngit\n\nreproducibility\n\n\n\nVersion control with git and GitHub.\n\n\n\nJun 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nTools and tricks for reproducible research\n\n\nSession 11\n\n\n\nreproducibility\n\ngit\n\nQuarto\n\n\n\nTools and habits that make research reproducible.\n\n\n\nMay 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to High performance Computing (HPC)\n\n\nSession 10\n\n\n\nHPC\n\n\n\nAn introduction to high-performance computing.\n\n\n\nMay 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntermediate ggplot in R\n\n\nSession 9\n\n\n\nR\n\nvisualization\n\ncode-along\n\n\n\nGoing further with ggplot2 for data visualisation.\n\n\n\nApr 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Neural Networks\n\n\nSession 8\n\n\n\nPython\n\nneural-networks\n\ncode-along\n\n\n\nTheory and practice of training neural networks.\n\n\n\nMar 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Python\n\n\nSession 7\n\n\n\nPython\n\ncode-along\n\n\n\nGetting started with Python.\n\n\n\nMar 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to writing functions in R\n\n\nSession 6\n\n\n\ncode-along\n\nreproducibility\n\nR\n\n\n\nWriting your own functions in R.\n\n\n\nFeb 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nPopulation structure analyses\n\n\nSession 5\n\n\n\ncode-along\n\nR\n\n\n\nUsing R to explore and plot population structure.\n\n\n\nFeb 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Markdown\n\n\nSession 4\n\n\n\ncode-along\n\nreproducibility\n\nmarkdown\n\n\n\nWriting reports with Markdown.\n\n\n\nJan 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nPCA: Theory and Practice\n\n\nSession 3\n\n\n\nstatistics\n\ncode-along\n\n\n\nThe theory and practice of principal component analysis.\n\n\n\nDec 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to the command line\n\n\nSession 2\n\n\n\ncode-along\n\ncommand-line\n\n\n\nLinux basics: navigating and working on the command line.\n\n\n\nNov 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R\n\n\nSession 1\n\n\n\nR\n\ncode-along\n\n\n\nFirst steps in R for biostatistics and bioinformatics.\n\n\n\nNov 14, 2023\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Home",
+      "All workshops"
+    ]
+  },
+  {
+    "objectID": "sessions/session01-intro-to-r/index.html",
+    "href": "sessions/session01-intro-to-r/index.html",
+    "title": "Introduction to R",
+    "section": "",
+    "text": "A warm welcome to our new mini-workshop series “Basic Biostatistics & Bioinformatics”, where SLUBI and SLU’s Center for Statistics collaborate to bring you a mix of theoretical background and practical coding on a variety of topics.\nThis session we start the series with an Introduction to R.\nIf you want to code along please bring your own laptop with R and R-studio installed.",
+    "crumbs": [
+      "Home",
+      "R",
+      "1 · Introduction to R"
+    ]
+  },
+  {
+    "objectID": "sessions/session01-intro-to-r/index.html#overview",
+    "href": "sessions/session01-intro-to-r/index.html#overview",
+    "title": "Introduction to R",
+    "section": "",
+    "text": "A warm welcome to our new mini-workshop series “Basic Biostatistics & Bioinformatics”, where SLUBI and SLU’s Center for Statistics collaborate to bring you a mix of theoretical background and practical coding on a variety of topics.\nThis session we start the series with an Introduction to R.\nIf you want to code along please bring your own laptop with R and R-studio installed.",
+    "crumbs": [
+      "Home",
+      "R",
+      "1 · Introduction to R"
+    ]
+  },
+  {
+    "objectID": "sessions/session01-intro-to-r/index.html#materials",
+    "href": "sessions/session01-intro-to-r/index.html#materials",
+    "title": "Introduction to R",
+    "section": "Materials",
+    "text": "Materials\nLecture Introduction to R (PDF) — download\n\n\nTutorial Inftroduction to R (R script) — download",
+    "crumbs": [
+      "Home",
+      "R",
+      "1 · Introduction to R"
+    ]
+  },
+  {
     "objectID": "sessions/session03-pca/index.html",
     "href": "sessions/session03-pca/index.html",
     "title": "PCA: Theory and Practice",
@@ -48,147 +576,351 @@
     ]
   },
   {
-    "objectID": "sessions/session01-intro-to-r/index.html",
-    "href": "sessions/session01-intro-to-r/index.html",
-    "title": "Introduction to R",
+    "objectID": "sessions/session05-population-structure/index.html",
+    "href": "sessions/session05-population-structure/index.html",
+    "title": "Population structure analyses",
     "section": "",
-    "text": "A warm welcome to our new mini-workshop series “Basic Biostatistics & Bioinformatics”, where SLUBI and SLU’s Center for Statistics collaborate to bring you a mix of theoretical background and practical coding on a variety of topics.\nThis session we start the series with an Introduction to R.\nIf you want to code along please bring your own laptop with R and R-studio installed.",
+    "text": "For the fifth session of the 3 B’s series, we cover some of the basics of population structure analyses in R. This will not be a lecture on the theory of population genetics, but rather how you can use R to create plots and make them ready for your publication.",
     "crumbs": [
       "Home",
       "R",
-      "1 · Introduction to R"
+      "5 · Population structure analyses"
     ]
   },
   {
-    "objectID": "sessions/session01-intro-to-r/index.html#overview",
-    "href": "sessions/session01-intro-to-r/index.html#overview",
-    "title": "Introduction to R",
+    "objectID": "sessions/session05-population-structure/index.html#overview",
+    "href": "sessions/session05-population-structure/index.html#overview",
+    "title": "Population structure analyses",
     "section": "",
-    "text": "A warm welcome to our new mini-workshop series “Basic Biostatistics & Bioinformatics”, where SLUBI and SLU’s Center for Statistics collaborate to bring you a mix of theoretical background and practical coding on a variety of topics.\nThis session we start the series with an Introduction to R.\nIf you want to code along please bring your own laptop with R and R-studio installed.",
+    "text": "For the fifth session of the 3 B’s series, we cover some of the basics of population structure analyses in R. This will not be a lecture on the theory of population genetics, but rather how you can use R to create plots and make them ready for your publication.",
     "crumbs": [
       "Home",
       "R",
-      "1 · Introduction to R"
+      "5 · Population structure analyses"
     ]
   },
   {
-    "objectID": "sessions/session01-intro-to-r/index.html#materials",
-    "href": "sessions/session01-intro-to-r/index.html#materials",
-    "title": "Introduction to R",
+    "objectID": "sessions/session05-population-structure/index.html#prerequisites",
+    "href": "sessions/session05-population-structure/index.html#prerequisites",
+    "title": "Population structure analyses",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nIf you would like to prepare in advance, please have a look at this vignette.\nAs always, you are most welcome to drop by and listen without participating.",
+    "crumbs": [
+      "Home",
+      "R",
+      "5 · Population structure analyses"
+    ]
+  },
+  {
+    "objectID": "sessions/session05-population-structure/index.html#materials",
+    "href": "sessions/session05-population-structure/index.html#materials",
+    "title": "Population structure analyses",
     "section": "Materials",
-    "text": "Materials\nLecture Introduction to R (PDF) — download\n\n\nTutorial Inftroduction to R (R script) — download",
+    "text": "Materials\nPopulation structure (PDF) — download\n\n\nsNMF tutorial (PDF) — download",
     "crumbs": [
       "Home",
       "R",
-      "1 · Introduction to R"
+      "5 · Population structure analyses"
     ]
   },
   {
-    "objectID": "workshops.html",
-    "href": "workshops.html",
-    "title": "Workshops",
+    "objectID": "sessions/session07-intro-to-python/index.html",
+    "href": "sessions/session07-intro-to-python/index.html",
+    "title": "Introduction to Python",
     "section": "",
-    "text": "Use the category filters on the right to find a topic (R, Python, HPC, statistics…), or search by keyword. Each card links to the session’s overview, slides, and any code or notebooks.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPCA: Theory and Practice\n\n\nSession 3\n\n\n\nstatistics\n\ncode-along\n\n\n\nThe theory and practice of principal component analysis.\n\n\n\nDec 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to the command line\n\n\nSession 2\n\n\n\ncode-along\n\ncommand-line\n\n\n\nLinux basics: navigating and working on the command line.\n\n\n\nNov 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R\n\n\nSession 1\n\n\n\nR\n\ncode-along\n\n\n\nFirst steps in R for biostatistics and bioinformatics.\n\n\n\nNov 14, 2023\n\n\n\n\n\n\nNo matching items",
+    "text": "Following popular demand, our next two sessions of the 3’B’s series will be building on top of each other, but can also be enjoyed individually.\n!! Please note that the following workshops will be held in-person in ULTUNA, with remote participation via Zoom!!\nPart I, on Monday the 11th of March, will give you an Introduction to Python:\nIn this programming workshop we start from the most basic elements of the Python3 syntax and we will see how such commands will come together to actually solve a simple problem like sorting. This base knowledge will lead to introducing two extremely useful libraries, NumPy and Matplotlib which are extremely effective in efficient manipulation and visualization of numerical data.\nPart II, on Monday the 25th of March, will have you use Python to start Training Neural Networks:\nPart I is the basis for the numerical manipulation necessary in the next workshop where we will go through theory and practice of neural network training. Several steps of the lecture will be illustrated on Google Colab notebooks in order for them to be easily reproducible by participants during the class.",
     "crumbs": [
       "Home",
-      "All workshops"
+      "Python",
+      "7 · Introduction to Python"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "3B's Workshop Series",
+    "objectID": "sessions/session07-intro-to-python/index.html#overview",
+    "href": "sessions/session07-intro-to-python/index.html#overview",
+    "title": "Introduction to Python",
     "section": "",
-    "text": "Short lectures and hands-on tutorials in basic biostatistics and bioinformatics — a collaboration between SLUBI and the SLU Center for Statistics.\n\nBrowse the workshops Suggest a topic"
+    "text": "Following popular demand, our next two sessions of the 3’B’s series will be building on top of each other, but can also be enjoyed individually.\n!! Please note that the following workshops will be held in-person in ULTUNA, with remote participation via Zoom!!\nPart I, on Monday the 11th of March, will give you an Introduction to Python:\nIn this programming workshop we start from the most basic elements of the Python3 syntax and we will see how such commands will come together to actually solve a simple problem like sorting. This base knowledge will lead to introducing two extremely useful libraries, NumPy and Matplotlib which are extremely effective in efficient manipulation and visualization of numerical data.\nPart II, on Monday the 25th of March, will have you use Python to start Training Neural Networks:\nPart I is the basis for the numerical manipulation necessary in the next workshop where we will go through theory and practice of neural network training. Several steps of the lecture will be illustrated on Google Colab notebooks in order for them to be easily reproducible by participants during the class.",
+    "crumbs": [
+      "Home",
+      "Python",
+      "7 · Introduction to Python"
+    ]
   },
   {
-    "objectID": "index.html#about-the-series",
-    "href": "index.html#about-the-series",
-    "title": "3B's Workshop Series",
-    "section": "About the series",
-    "text": "About the series\nThe 3 Bees — Basic Biostatistics & Bioinformatics is a series of short lectures and hands-on tutorials that introduce topics and methods to help with your research projects, especially (but not only) bioinformatics. It is a collaboration between SLU’s Center for Statistics and SLUBI, SLU’s bioinformatics infrastructure.\nEvery session is beginner-friendly — come to just listen, or bring a laptop and follow along. Slides, tutorials, and code from each session are collected here."
+    "objectID": "sessions/session07-intro-to-python/index.html#prerequisites",
+    "href": "sessions/session07-intro-to-python/index.html#prerequisites",
+    "title": "Introduction to Python",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nTo follow the course and the exercises please have a google account ready!\nHowever, as always, you are most welcome to drop by and listen without participating!",
+    "crumbs": [
+      "Home",
+      "Python",
+      "7 · Introduction to Python"
+    ]
   },
   {
-    "objectID": "index.html#recent-sessions",
-    "href": "index.html#recent-sessions",
-    "title": "3B's Workshop Series",
-    "section": "Recent sessions",
-    "text": "Recent sessions\n\n\n\n\n\n\n\n\n\n\nPCA: Theory and Practice\n\n\nSession 3\n\n\n\nstatistics\n\ncode-along\n\n\n\n\nDec 11, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to the command line\n\n\nSession 2\n\n\n\ncode-along\n\ncommand-line\n\n\n\n\nNov 27, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to R\n\n\nSession 1\n\n\n\nR\n\ncode-along\n\n\n\n\nNov 14, 2023\n\n\n\n\n\n\nNo matching items\n\nSee all workshops →"
+    "objectID": "sessions/session07-intro-to-python/index.html#materials",
+    "href": "sessions/session07-intro-to-python/index.html#materials",
+    "title": "Introduction to Python",
+    "section": "Materials",
+    "text": "Materials\nNotebook Introduction to Python (Jupyter notebook) — download\nREADME Introduction to Python (text file) — download\nSlides Introduction to Python (PDF) — download",
+    "crumbs": [
+      "Home",
+      "Python",
+      "7 · Introduction to Python"
+    ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About the 3 Bees",
+    "objectID": "sessions/session09-ggplot-intermediate/index.html",
+    "href": "sessions/session09-ggplot-intermediate/index.html",
+    "title": "Intermediate ggplot in R",
     "section": "",
-    "text": "The 3 Bees — Basic Biostatistics & Bioinformatics is a series of short lectures and hands-on tutorials introducing topics and methods that help with research projects, especially (but not only) bioinformatics ones. It launched in November 2023 and runs roughly every other Monday at 09:45, online and on campus at SLU.\nIt is a collaboration between:"
+    "text": "In this session you can learn more about R’s data visualization package ggplot. The workshop will answer the following questions:\n\nWhy ggplot (difference between base plot and ggplot2)?\nHow do you make plots using ggplot2 in R?\nHow do you customize and modify plots?",
+    "crumbs": [
+      "Home",
+      "R",
+      "9 · Intermediate ggplot in R"
+    ]
   },
   {
-    "objectID": "about.html#how-it-works",
-    "href": "about.html#how-it-works",
-    "title": "About the 3 Bees",
-    "section": "How it works",
-    "text": "How it works\nEvery session is beginner-friendly. You are welcome to simply come and listen, or bring a laptop and code along. Slides, tutorials, scripts, and notebooks for each session are collected here and linked from every workshop’s page."
+    "objectID": "sessions/session09-ggplot-intermediate/index.html#overview",
+    "href": "sessions/session09-ggplot-intermediate/index.html#overview",
+    "title": "Intermediate ggplot in R",
+    "section": "",
+    "text": "In this session you can learn more about R’s data visualization package ggplot. The workshop will answer the following questions:\n\nWhy ggplot (difference between base plot and ggplot2)?\nHow do you make plots using ggplot2 in R?\nHow do you customize and modify plots?",
+    "crumbs": [
+      "Home",
+      "R",
+      "9 · Intermediate ggplot in R"
+    ]
   },
   {
-    "objectID": "about.html#suggest-a-topic",
-    "href": "about.html#suggest-a-topic",
-    "title": "About the 3 Bees",
-    "section": "Suggest a topic",
-    "text": "Suggest a topic\nThe schedule is shaped by what people want to learn. If there is a topic you’d like us to cover, fill out our short questionnaire to influence the next round of workshops."
+    "objectID": "sessions/session09-ggplot-intermediate/index.html#what-youll-learn",
+    "href": "sessions/session09-ggplot-intermediate/index.html#what-youll-learn",
+    "title": "Intermediate ggplot in R",
+    "section": "What you’ll learn",
+    "text": "What you’ll learn\n\nLearn Grammar of the graphics & synatx\nBuild a graph (data visualization) from the scratch\nDescribe Geometric components of a graph\nProduce different kinds of plot (scatter plots, boxplots, barplots etc) using ggplot.\nDescribe what faceting is and apply faceting in ggplot.\nModify the aesthetics of an existing ggplot plot (including theme, axis labels, stats and color etc).\nCombine and save plots as publishable figures.",
+    "crumbs": [
+      "Home",
+      "R",
+      "9 · Intermediate ggplot in R"
+    ]
   },
   {
-    "objectID": "about.html#find-us",
-    "href": "about.html#find-us",
-    "title": "About the 3 Bees",
-    "section": "Find us",
-    "text": "Find us\n\nWebsite: www.slubi.se\nWorkshop archive on slubi.se: Seminars & Workshops\nSource for this site: GitHub"
+    "objectID": "sessions/session09-ggplot-intermediate/index.html#prerequisites",
+    "href": "sessions/session09-ggplot-intermediate/index.html#prerequisites",
+    "title": "Intermediate ggplot in R",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nPlease have R and RStudio installed on your computer. Install ggplot2 by typing install.packages(\"ggplot2\") into the console of your RStudio.\nThis session uses the publicly available Penguins data set. You can install the data with: install.packages(\"palmerpenguins\").",
+    "crumbs": [
+      "Home",
+      "R",
+      "9 · Intermediate ggplot in R"
+    ]
   },
   {
-    "objectID": "sessions/session02-linux-basics/index.html",
-    "href": "sessions/session02-linux-basics/index.html",
+    "objectID": "sessions/session09-ggplot-intermediate/index.html#materials",
+    "href": "sessions/session09-ggplot-intermediate/index.html#materials",
+    "title": "Intermediate ggplot in R",
+    "section": "Materials",
+    "text": "Materials\nIntermediate ggplot2 in R (PDF) — download\n\n\nGgplot 3bs slubi (R Markdown) — download\nGgplot 3bs slubi (HTML page) — download",
+    "crumbs": [
+      "Home",
+      "R",
+      "9 · Intermediate ggplot in R"
+    ]
+  },
+  {
+    "objectID": "sessions/session11-reproducible-research/index.html",
+    "href": "sessions/session11-reproducible-research/index.html",
+    "title": "Tools and tricks for reproducible research",
+    "section": "",
+    "text": "Hear about useful tools and considerations, and get the answer why reproducible research does not only benefit others, but first and foremost yourself.\nThis session we will give a presentation and introduce the concept of reproducible research together with a variety of different tools that can help you gettting started.",
+    "crumbs": [
+      "Home",
+      "Reproducibility",
+      "11 · Tools and tricks for reproducible research"
+    ]
+  },
+  {
+    "objectID": "sessions/session11-reproducible-research/index.html#overview",
+    "href": "sessions/session11-reproducible-research/index.html#overview",
+    "title": "Tools and tricks for reproducible research",
+    "section": "",
+    "text": "Hear about useful tools and considerations, and get the answer why reproducible research does not only benefit others, but first and foremost yourself.\nThis session we will give a presentation and introduce the concept of reproducible research together with a variety of different tools that can help you gettting started.",
+    "crumbs": [
+      "Home",
+      "Reproducibility",
+      "11 · Tools and tricks for reproducible research"
+    ]
+  },
+  {
+    "objectID": "sessions/session11-reproducible-research/index.html#prerequisites",
+    "href": "sessions/session11-reproducible-research/index.html#prerequisites",
+    "title": "Tools and tricks for reproducible research",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nNo preparations needed. Come, listen, and take notes!",
+    "crumbs": [
+      "Home",
+      "Reproducibility",
+      "11 · Tools and tricks for reproducible research"
+    ]
+  },
+  {
+    "objectID": "sessions/session11-reproducible-research/index.html#materials",
+    "href": "sessions/session11-reproducible-research/index.html#materials",
+    "title": "Tools and tricks for reproducible research",
+    "section": "Materials",
+    "text": "Materials\nReproducible research (PDF) — download",
+    "crumbs": [
+      "Home",
+      "Reproducibility",
+      "11 · Tools and tricks for reproducible research"
+    ]
+  },
+  {
+    "objectID": "sessions/session13-project-organization/index.html",
+    "href": "sessions/session13-project-organization/index.html",
+    "title": "Project organization in R",
+    "section": "",
+    "text": "This 3 Bees session is again filled with tips and tricks for reproducible research, covering how to work with projects in RStudio. We will give some helpful tips on how to structure files, scripts and code. We will also take a quick look at some specific packages such as renv and targets.\nThis session will be presentation only, so come, enjoy and take notes!",
+    "crumbs": [
+      "Home",
+      "R",
+      "13 · Project organization in R"
+    ]
+  },
+  {
+    "objectID": "sessions/session13-project-organization/index.html#overview",
+    "href": "sessions/session13-project-organization/index.html#overview",
+    "title": "Project organization in R",
+    "section": "",
+    "text": "This 3 Bees session is again filled with tips and tricks for reproducible research, covering how to work with projects in RStudio. We will give some helpful tips on how to structure files, scripts and code. We will also take a quick look at some specific packages such as renv and targets.\nThis session will be presentation only, so come, enjoy and take notes!",
+    "crumbs": [
+      "Home",
+      "R",
+      "13 · Project organization in R"
+    ]
+  },
+  {
+    "objectID": "sessions/session13-project-organization/index.html#prerequisites",
+    "href": "sessions/session13-project-organization/index.html#prerequisites",
+    "title": "Project organization in R",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nNo preparation needed.",
+    "crumbs": [
+      "Home",
+      "R",
+      "13 · Project organization in R"
+    ]
+  },
+  {
+    "objectID": "sessions/session13-project-organization/index.html#materials",
+    "href": "sessions/session13-project-organization/index.html#materials",
+    "title": "Project organization in R",
+    "section": "Materials",
+    "text": "Materials\nProject organisation (PDF) — download",
+    "crumbs": [
+      "Home",
+      "R",
+      "13 · Project organization in R"
+    ]
+  },
+  {
+    "objectID": "sessions/session15-command-line/index.html",
+    "href": "sessions/session15-command-line/index.html",
     "title": "Introduction to the command line",
     "section": "",
-    "text": "It is time for the second instalment in the 3 Bee’s workshop series. Thank-you to everyone that attended the first session!\nThis time, we work on some Linux basics that you need when you start working on any cluster, whether it is Rackham on Uppmax, a departmental cluster, or any online server. We cover all of the basics from what the command line is, to how to navigate using the command line, make and edit files, and a whole bunch of other nifty tricks!\nThe session is geared towards everyone that has never used the command line before, and for everyone that would like to refresh their memory.",
+    "text": "Welcome back after the summer, and welcome to a new round of the 3 bees: basic biostatistics and bioinformatics.\nAs a short recap: The 3 bees is a series of lectures and hands-on tutorials that introduce a variety of topics and methods that can help you in your research projects – especially, but not only, if they are bioinformatics related. The series is a collaboration between SLU’s Center for Statistics and SLU’s bioinformatics infrastructure, SLUBI.\nWith that out of the way, let me invite you to the first instance of the 3 bees in this fall semester.\nWe will work on some Linux basics that you will need when you start working on any cluster, whether it is Rackham on Uppmax, a departmental cluster, or any online server. We are going to cover all of the basics from what the command line is, to how to navigate using the command line, make and edit files, and a whole bunch of other nifty tricks!\nThis session is geared towards everyone that has never used the command line before, and for everyone that would like to refresh their memory.",
     "crumbs": [
       "Home",
       "Command line",
-      "2 · Introduction to the command line"
+      "15 · Introduction to the command line"
     ]
   },
   {
-    "objectID": "sessions/session02-linux-basics/index.html#overview",
-    "href": "sessions/session02-linux-basics/index.html#overview",
+    "objectID": "sessions/session15-command-line/index.html#overview",
+    "href": "sessions/session15-command-line/index.html#overview",
     "title": "Introduction to the command line",
     "section": "",
-    "text": "It is time for the second instalment in the 3 Bee’s workshop series. Thank-you to everyone that attended the first session!\nThis time, we work on some Linux basics that you need when you start working on any cluster, whether it is Rackham on Uppmax, a departmental cluster, or any online server. We cover all of the basics from what the command line is, to how to navigate using the command line, make and edit files, and a whole bunch of other nifty tricks!\nThe session is geared towards everyone that has never used the command line before, and for everyone that would like to refresh their memory.",
+    "text": "Welcome back after the summer, and welcome to a new round of the 3 bees: basic biostatistics and bioinformatics.\nAs a short recap: The 3 bees is a series of lectures and hands-on tutorials that introduce a variety of topics and methods that can help you in your research projects – especially, but not only, if they are bioinformatics related. The series is a collaboration between SLU’s Center for Statistics and SLU’s bioinformatics infrastructure, SLUBI.\nWith that out of the way, let me invite you to the first instance of the 3 bees in this fall semester.\nWe will work on some Linux basics that you will need when you start working on any cluster, whether it is Rackham on Uppmax, a departmental cluster, or any online server. We are going to cover all of the basics from what the command line is, to how to navigate using the command line, make and edit files, and a whole bunch of other nifty tricks!\nThis session is geared towards everyone that has never used the command line before, and for everyone that would like to refresh their memory.",
     "crumbs": [
       "Home",
       "Command line",
-      "2 · Introduction to the command line"
+      "15 · Introduction to the command line"
     ]
   },
   {
-    "objectID": "sessions/session02-linux-basics/index.html#prerequisites",
-    "href": "sessions/session02-linux-basics/index.html#prerequisites",
+    "objectID": "sessions/session15-command-line/index.html#prerequisites",
+    "href": "sessions/session15-command-line/index.html#prerequisites",
     "title": "Introduction to the command line",
     "section": "Prerequisites",
-    "text": "Prerequisites\nYou are welcome to just come and listen. However, if you would like to practice your skills along with the tutorial and you don’t have access to a server or a Linux operating system on your computer, please download MobaXterm in preparation. Mac users can use the terminal.",
+    "text": "Prerequisites\nYou are welcome to just come and listen. However, if you would like to practice your skills along with the tutorial and you don’t have access to a server or a Linux operating system on your computer, please download MobaXterm in preparation: https://mobaxterm.mobatek.net/download.html Mac users can use the terminal.",
     "crumbs": [
       "Home",
       "Command line",
-      "2 · Introduction to the command line"
+      "15 · Introduction to the command line"
     ]
   },
   {
-    "objectID": "sessions/session02-linux-basics/index.html#materials",
-    "href": "sessions/session02-linux-basics/index.html#materials",
+    "objectID": "sessions/session15-command-line/index.html#materials",
+    "href": "sessions/session15-command-line/index.html#materials",
     "title": "Introduction to the command line",
     "section": "Materials",
-    "text": "Materials\nNo downloadable materials for this session yet.",
+    "text": "Materials\nIntro to Command Line 20240923 (PowerPoint) — download",
     "crumbs": [
       "Home",
       "Command line",
-      "2 · Introduction to the command line"
+      "15 · Introduction to the command line"
+    ]
+  },
+  {
+    "objectID": "sessions/session17-intro-to-r/index.html",
+    "href": "sessions/session17-intro-to-r/index.html",
+    "title": "Introduction to R",
+    "section": "",
+    "text": "In this instance, we will give a short introduction to R. We will work on some R basics that you will need for data manipulation and visualization. The session is geared towards everyone that has never used R before, and for everyone that would like to refresh their memory.",
+    "crumbs": [
+      "Home",
+      "R",
+      "17 · Introduction to R"
+    ]
+  },
+  {
+    "objectID": "sessions/session17-intro-to-r/index.html#overview",
+    "href": "sessions/session17-intro-to-r/index.html#overview",
+    "title": "Introduction to R",
+    "section": "",
+    "text": "In this instance, we will give a short introduction to R. We will work on some R basics that you will need for data manipulation and visualization. The session is geared towards everyone that has never used R before, and for everyone that would like to refresh their memory.",
+    "crumbs": [
+      "Home",
+      "R",
+      "17 · Introduction to R"
+    ]
+  },
+  {
+    "objectID": "sessions/session17-intro-to-r/index.html#prerequisites",
+    "href": "sessions/session17-intro-to-r/index.html#prerequisites",
+    "title": "Introduction to R",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nYou are welcome to just come and listen. If you want to code along please bring your own laptop with R and R-studio installed.\nIf you’re just curious and want to listen in, that’s also perfectly fine!",
+    "crumbs": [
+      "Home",
+      "R",
+      "17 · Introduction to R"
+    ]
+  },
+  {
+    "objectID": "sessions/session17-intro-to-r/index.html#materials",
+    "href": "sessions/session17-intro-to-r/index.html#materials",
+    "title": "Introduction to R",
+    "section": "Materials",
+    "text": "Materials\nIntroduction to R (PDF) — download",
+    "crumbs": [
+      "Home",
+      "R",
+      "17 · Introduction to R"
     ]
   }
 ]
