@@ -1,0 +1,29 @@
+---
+title: "Introduction to Neural Networks"
+subtitle: "Session 8"
+image: thumbnail.svg
+date: 2024-03-25
+author: "SLUBI"
+categories: [Python, neural-networks, code-along]
+description: "Theory and practice of training neural networks."
+---
+
+## Overview
+
+In this session where we will go through theory and practice of neural network training. Several steps of the lecture will be illustrated on Google Colab notebooks in order for them to be easily reproducible by participants during the class.
+
+## Prerequisites
+
+ To follow the course and the exercises please have a google account ready! This session build on Session 7 - Introduction to Python. 
+
+However, as always, you are most welcome to drop by and listen without participating!
+
+## Materials
+
+**Notebook NeuralNetworks (Jupyter notebook)** — [download](Session08_Notebook_NeuralNetworks.ipynb)
+
+**README Neural Networks (text file)** — [download](Session08_README_Neural_Networks.txt)
+
+**Slides NeuralNetworks (PDF)** — [download](Session08_Slides_NeuralNetworks.pdf)
+
+<iframe class="pdf-embed" src="Session08_Slides_NeuralNetworks.pdf" title="Slides NeuralNetworks (PDF)" loading="lazy"></iframe>

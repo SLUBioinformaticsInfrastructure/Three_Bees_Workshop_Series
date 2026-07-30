@@ -1,0 +1,25 @@
+---
+title: "Introduction to High performance Computing (HPC)"
+subtitle: "Session 10"
+image: thumbnail.svg
+date: 2024-05-06
+author: "SLUBI"
+categories: [HPC]
+description: "An introduction to high-performance computing."
+---
+
+## Overview
+
+Join us to learn the basics of high performance computing. We will have a brief overview of HPC facilities in Sweden, how to log in, and how to use the job queuing system, Slurm. We will also have a quick look at how to apply for projects on these clusters.
+
+After a short lecture, we will show how to access Rackham from UPPMAX with Visual Studio Code. If you are new to using clusters, this session is for you! 
+
+## Prerequisites
+
+ If you would like to follow along, please ensure that you have VSCode installed.
+
+## Materials
+
+**Intro hpc (PDF)** — [download](Session10_intro_hpc.pdf)
+
+<iframe class="pdf-embed" src="Session10_intro_hpc.pdf" title="Intro hpc (PDF)" loading="lazy"></iframe>

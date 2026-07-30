@@ -18,8 +18,8 @@ The session is geared towards everyone that has never used the command line befo
 
 ## Prerequisites
 
- You are welcome to just come and listen. However, if you would like to practice your skills along with the tutorial and you don’t have access to a server or a Linux operating system on your computer, please download [MobaXterm](https://mobaxterm.mobatek.net/download.html) in preparation.  Mac users can use the terminal.
+You are welcome to just come and listen. However, if you would like to practice your skills along with the tutorial and you don’t have access to a server or a Linux operating system on your computer, please download [MobaXterm](https://mobaxterm.mobatek.net/download.html) in preparation.  Mac users can use the terminal.
 
 ## Materials
 
-_No downloadable materials for this session yet._
+_No downloadable materials for this session._

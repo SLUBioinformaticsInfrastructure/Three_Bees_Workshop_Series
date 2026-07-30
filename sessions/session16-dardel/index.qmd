@@ -1,0 +1,27 @@
+---
+title: "Introduction to the Dardel Supercomputer"
+subtitle: "Session 16"
+image: thumbnail.svg
+date: 2024-10-07
+author: "SLUBI"
+categories: [HPC]
+description: "Getting started on the Dardel supercomputer at PDC."
+---
+
+## Overview
+
+We are thrilled to have Henric Zazzi join us for this session, where he will provide an introduction to the ”new” Dardel supercomputer, which will replace Uppmax for many of us in the coming year. Henric will give us an introduction to the system and walk us through how to log in and start using it, making this an excellent opportunity for anyone interested in high-performance computing or planning to work with Dardel in the future.
+
+**Guest speaker:** Henric Zazzi, Head of Support for Dardel\
+
+## Prerequisites
+
+To get the most out of the session, please make sure you have a PDC account set up beforehand. You can read about creating one here: https://www.pdc.kth.se/support/documents/getting_access/get_access.html.
+
+If you’re just curious and want to listen in, that’s also perfectly fine!
+
+## Materials
+
+**Introduction pdc Dardel (PDF)** — [download](Session16_introduction_pdc_Dardel.pdf)
+
+<iframe class="pdf-embed" src="Session16_introduction_pdc_Dardel.pdf" title="Introduction pdc Dardel (PDF)" loading="lazy"></iframe>

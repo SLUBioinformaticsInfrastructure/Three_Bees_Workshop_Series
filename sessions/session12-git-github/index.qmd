@@ -1,0 +1,27 @@
+---
+title: "Introduction to git and Github"
+subtitle: "Session 12"
+image: thumbnail.svg
+date: 2024-06-03
+author: "SLUBI"
+categories: [git, reproducibility]
+description: "Version control with git and GitHub."
+---
+
+## Overview
+
+In this 3 Bees session we continue with our tips and tricks for reproducible research with a look at git and GitHub. Git is a useful tool to track the development of your work, to collaborate with others, and to share analyses with the world.
+
+We give an introduction to git using the interface in RStudio and show how one can link local work to an online repository. GitHub is not just useful in R, but across all forms of science.
+
+This includes a short presentation followed by some interactive exercises.
+
+## Prerequisites
+
+ If  you want to follow along the exercises, please download git from https://git-scm.com/ and get an account on github.com. Otherwise just come and listen in!
+
+## Materials
+
+**Git and github (PDF)** — [download](Session12_git_and_github.pdf)
+
+<iframe class="pdf-embed" src="Session12_git_and_github.pdf" title="Git and github (PDF)" loading="lazy"></iframe>

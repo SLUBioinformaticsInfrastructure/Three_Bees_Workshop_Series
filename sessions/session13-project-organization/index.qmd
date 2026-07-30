@@ -1,0 +1,25 @@
+---
+title: "Project organization in R"
+subtitle: "Session 13"
+image: thumbnail.svg
+date: 2024-06-17
+author: "SLUBI"
+categories: [reproducibility, R]
+description: "Keeping R projects organised and manageable."
+---
+
+## Overview
+
+This 3 Bees session is again filled with tips and tricks for reproducible research, covering how to work with projects in RStudio. We will give some helpful tips on how to structure files, scripts and code. We will also take a quick look at some specific packages such as renv and targets.
+
+This session will be presentation only, so come, enjoy and take notes!
+
+## Prerequisites
+
+ No preparation needed.
+
+## Materials
+
+**Project organisation (PDF)** — [download](Session13_project_organisation.pdf)
+
+<iframe class="pdf-embed" src="Session13_project_organisation.pdf" title="Project organisation (PDF)" loading="lazy"></iframe>

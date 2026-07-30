@@ -1,0 +1,25 @@
+---
+title: "Introduction to R"
+subtitle: "Session 17"
+image: thumbnail.svg
+date: 2024-10-21
+author: "SLUBI"
+categories: [R, code-along]
+description: "A refresher on the basics of R."
+---
+
+## Overview
+
+In this instance, we will give a short introduction to R. We will work on some R basics that you will need for data manipulation and visualization. The session is geared towards everyone that has never used R before, and for everyone that would like to refresh their memory.
+
+## Prerequisites
+
+You are welcome to just come and listen. If you want to code along please bring your own laptop with R and R-studio installed. 
+
+If you’re just curious and want to listen in, that’s also perfectly fine!
+
+## Materials
+
+**Introduction to R (PDF)** — [download](Session17_Introduction_to_R.pdf)
+
+<iframe class="pdf-embed" src="Session17_Introduction_to_R.pdf" title="Introduction to R (PDF)" loading="lazy"></iframe>

@@ -1,0 +1,43 @@
+---
+title: "Intermediate ggplot in R"
+subtitle: "Session 9"
+image: thumbnail.svg
+date: 2024-04-08
+author: "SLUBI"
+categories: [R, visualization, code-along]
+description: "Going further with ggplot2 for data visualisation."
+---
+
+## Overview
+
+In this session you can learn more about R’s data visualization package ggplot. The workshop will answer the following questions:
+
+- Why ggplot (difference between base plot and ggplot2)?
+- How do you make plots using ggplot2 in R?
+- How do you customize and modify plots?
+
+## What you'll learn
+
+- Learn Grammar of the graphics & synatx
+- Build a graph (data visualization) from the scratch
+- Describe Geometric components of a graph
+- Produce different kinds of plot (scatter plots, boxplots, barplots etc) using ggplot.
+- Describe what faceting is and apply faceting in ggplot.
+- Modify the aesthetics of an existing ggplot plot (including theme, axis labels, stats and color etc).
+- Combine and save plots as publishable figures.
+
+## Prerequisites
+
+ Please have R and RStudio installed on your computer. Install ggplot2 by typing `install.packages("ggplot2")` into the console of your RStudio.
+
+This session uses the publicly available [Penguins data set](https://allisonhorst.github.io/palmerpenguins/). You can install the data with: `install.packages("palmerpenguins")`.
+
+## Materials
+
+**Intermediate ggplot2 in R (PDF)** — [download](Session09_Intermediate_ggplot2_in_R.pdf)
+
+<iframe class="pdf-embed" src="Session09_Intermediate_ggplot2_in_R.pdf" title="Intermediate ggplot2 in R (PDF)" loading="lazy"></iframe>
+
+**Ggplot 3bs slubi (R Markdown)** — [download](Session09_ggplot_3bs_slubi.Rmd)
+
+**Ggplot 3bs slubi (HTML page)** — [download](Session09_ggplot_3bs_slubi.html)

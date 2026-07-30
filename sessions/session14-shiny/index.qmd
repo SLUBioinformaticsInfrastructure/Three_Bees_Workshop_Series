@@ -1,0 +1,26 @@
+---
+title: "Shiny - interactive data visualization in R"
+subtitle: "Session 14"
+image: thumbnail.svg
+date: 2024-07-01
+author: "SLUBI"
+categories: [code-along, R]
+description: "Building interactive apps in R with Shiny."
+---
+
+## Overview
+
+For this last session before the summer we will have a quick look at using Shiny to create interactive data visualisations. Come and make your come to life!
+
+## Prerequisites
+
+  If you would like to prepare something in advance, have a look at https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html. 
+As always, you are more than welcome to come listen and learn without any preparation.
+
+## Materials
+
+**Lecture (PDF)** — [download](Session14_lecture.pdf)
+
+<iframe class="pdf-embed" src="Session14_lecture.pdf" title="Lecture (PDF)" loading="lazy"></iframe>
+
+**Practical (R script)** — [download](Session14_practical.R)

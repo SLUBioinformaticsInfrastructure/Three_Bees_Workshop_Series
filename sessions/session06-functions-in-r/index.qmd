@@ -1,0 +1,25 @@
+---
+title: "Introduction to writing functions in R"
+subtitle: "Session 6"
+image: thumbnail.svg
+date: 2024-02-26
+author: "SLUBI"
+categories: [code-along, reproducibility, R]
+description: "Writing your own functions in R."
+---
+
+## Overview
+
+For the sixth session of the 3 B’s series, we talk about how to write your own functions in R. Very handy of you want to wrap code you are using over and over again into a re-usable function!
+
+## Prerequisites
+
+ If you would like to prepare in advance, please have a look at this [tutorial](https://www.dataquest.io/blog/write-functions-in-r/), and [see here](https://r4ds.had.co.nz/functions.html) for additional content.
+
+As always, you are most welcome to drop by and listen without participating.
+
+## Materials
+
+**Writing your own functions in R (PDF)** — [download](Session06_Writing_your_own_functions_in_R.pdf)
+
+<iframe class="pdf-embed" src="Session06_Writing_your_own_functions_in_R.pdf" title="Writing your own functions in R (PDF)" loading="lazy"></iframe>

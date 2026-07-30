@@ -1,0 +1,25 @@
+---
+title: "PCA - Theory and Practice"
+subtitle: "Session 18"
+image: thumbnail.svg
+date: 2024-12-02
+author: "SLUBI"
+categories: [statistics, code-along]
+description: "The theory and practice of principal component analysis."
+---
+
+## Overview
+
+This instance we present a short lecture on the theory behind PCA and what we can learn from them, and then show some commonly used R tools used to perform PCA on different kinds of data with an emphasis on data from a RNA sequencing project.
+
+## Prerequisites
+
+You are welcome to sit in and listen. However, if you would like to follow the practical part, please bring your computer with Rstudio installed.
+
+## Materials
+
+**Basics of PCA (PDF)** — [download](Session18_Basics_of_PCA.pdf)
+
+<iframe class="pdf-embed" src="Session18_Basics_of_PCA.pdf" title="Basics of PCA (PDF)" loading="lazy"></iframe>
+
+**Penguins pca (R Markdown)** — [download](Session18_penguins_pca.Rmd)

@@ -1,0 +1,39 @@
+---
+title: "Introduction to Python"
+subtitle: "Session 7"
+image: thumbnail.svg
+date: 2024-03-11
+author: "SLUBI"
+categories: [Python, code-along]
+description: "Getting started with Python."
+---
+
+## Overview
+
+Following popular demand, our next two sessions of the 3’B’s series will be building on top of each other, but can also be enjoyed individually.
+
+**!! Please note that the following workshops will be held in-person in ULTUNA, with remote participation via Zoom!!**
+
+**Part I**, on Monday the 11th of March, will give you an Introduction to Python:
+
+In this programming workshop we start from the most basic elements of the Python3 syntax and we will see how such commands will come together to actually solve a simple problem like sorting. This base knowledge will lead to introducing two extremely useful libraries, NumPy and Matplotlib which are extremely effective in efficient manipulation and visualization of numerical data.
+
+**Part II**, on Monday the 25th of March, will have you use Python to start Training Neural Networks:
+
+Part I is the basis for the numerical manipulation necessary in the next workshop where we will go through theory and practice of neural network training. Several steps of the lecture will be illustrated on Google Colab notebooks in order for them to be easily reproducible by participants during the class.
+
+## Prerequisites
+
+ To follow the course and the exercises please have a google account ready!
+
+However, as always, you are most welcome to drop by and listen without participating!
+
+## Materials
+
+**Notebook Introduction to Python (Jupyter notebook)** — [download](Session07_Notebook_Introduction_to_Python.ipynb)
+
+**README Introduction to Python (text file)** — [download](Session07_README_Introduction_to_Python.txt)
+
+**Slides Introduction to Python (PDF)** — [download](Session07_Slides__Introduction_to_Python.pdf)
+
+<iframe class="pdf-embed" src="Session07_Slides__Introduction_to_Python.pdf" title="Slides Introduction to Python (PDF)" loading="lazy"></iframe>

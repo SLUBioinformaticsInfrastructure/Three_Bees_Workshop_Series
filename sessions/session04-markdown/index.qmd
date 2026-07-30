@@ -1,0 +1,31 @@
+---
+title: "Introduction to Markdown"
+subtitle: "Session 4"
+image: thumbnail.svg
+date: 2024-01-15
+author: "SLUBI"
+categories: [code-along, reproducibility, markdown]
+description: "Writing reports with Markdown."
+---
+
+## Overview
+
+We wish you all a happy continuation of the new year!
+
+For the fourth session of the 3 B’s series, we cover some of the basics of Markdown. 
+
+Markdown is a reporting language with several applications in scientific communication. With this, you are able to seamlessly render reproducible reports in PDF and HTML formats to include text, code and figures in an aesthetically pleasing way.
+
+We will address basic syntax, applications in R and VSCode, and a new iteration of markdown in the form of Quarto.
+
+## Prerequisites
+
+ If you would like to prepare in advance, have a look at this [guide](https://rmarkdown.rstudio.com/).
+
+As always, you are most welcome to drop by and listen without participating.
+
+## Materials
+
+**Lecture markdown (PDF)** — [download](Session04_Lecture_markdown.pdf)
+
+<iframe class="pdf-embed" src="Session04_Lecture_markdown.pdf" title="Lecture markdown (PDF)" loading="lazy"></iframe>

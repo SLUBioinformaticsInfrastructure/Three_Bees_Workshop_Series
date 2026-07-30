@@ -1,0 +1,30 @@
+---
+title: "Introduction to the command line"
+subtitle: "Session 15"
+image: thumbnail.svg
+date: 2024-09-23
+author: "SLUBI"
+categories: [code-along, command-line]
+description: "Command-line basics for working on clusters."
+---
+
+## Overview
+
+Welcome back after the summer, and welcome to a new round of the 3 bees: basic biostatistics and bioinformatics.
+
+As a short recap:
+The 3 bees is a series of lectures and hands-on tutorials that introduce a variety of topics and methods that can help you in your research projects – especially, but not only, if they are bioinformatics related. The series is a collaboration between SLU’s Center for Statistics and SLU’s bioinformatics infrastructure, SLUBI.
+
+With that out of the way, let me invite you to the first instance of the 3 bees in this fall semester.
+
+We will work on some Linux basics that you will need when you start working on any cluster, whether it is Rackham on Uppmax, a departmental cluster, or any online server. We are going to cover all of the basics from what the command line is, to how to navigate using the command line, make and edit files, and a whole bunch of other nifty tricks!
+
+This session is geared towards everyone that has never used the command line before, and for everyone that would like to refresh their memory.
+
+## Prerequisites
+
+ You are welcome to just come and listen. However, if you would like to practice your skills along with the tutorial and you don’t have access to a server or a Linux operating system on your computer, please download MobaXterm in preparation: https://mobaxterm.mobatek.net/download.html Mac users can use the terminal.
+
+## Materials
+
+**Intro to Command Line 20240923 (PowerPoint)** — [download](Session15_Intro_to_Command_Line_20240923.pptx)

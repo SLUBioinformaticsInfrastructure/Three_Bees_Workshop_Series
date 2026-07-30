@@ -1,0 +1,25 @@
+---
+title: "Tools and tricks for reproducible research"
+subtitle: "Session 11"
+image: thumbnail.svg
+date: 2024-05-20
+author: "SLUBI"
+categories: [reproducibility, git, Quarto]
+description: "Tools and habits that make research reproducible."
+---
+
+## Overview
+
+Hear about useful tools and considerations, and get the answer why reproducible research does not only benefit others, but first and foremost yourself. 
+
+This session we will give a presentation and introduce the concept of reproducible research together with a variety of different tools that can help you gettting started. 
+
+## Prerequisites
+
+ No preparations needed. Come, listen, and take notes!
+
+## Materials
+
+**Reproducible research (PDF)** — [download](Session11_reproducible_research.pdf)
+
+<iframe class="pdf-embed" src="Session11_reproducible_research.pdf" title="Reproducible research (PDF)" loading="lazy"></iframe>

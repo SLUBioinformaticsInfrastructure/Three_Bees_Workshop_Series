@@ -1,0 +1,29 @@
+---
+title: "Population structure analyses"
+subtitle: "Session 5"
+image: thumbnail.svg
+date: 2024-02-12
+author: "SLUBI"
+categories: [code-along, R]
+description: "Using R to explore and plot population structure."
+---
+
+## Overview
+
+For the fifth session of the 3 B’s series, we cover some of the basics of population structure analyses in R. This will not be a lecture on the theory of population genetics, but rather how you can use R to create plots and make them ready for your publication.
+
+## Prerequisites
+
+ If you would like to prepare in advance, please have a look at this vignette.
+
+As always, you are most welcome to drop by and listen without participating.
+
+## Materials
+
+**Population structure (PDF)** — [download](Session05_population_structure.pdf)
+
+<iframe class="pdf-embed" src="Session05_population_structure.pdf" title="Population structure (PDF)" loading="lazy"></iframe>
+
+**sNMF tutorial (PDF)** — [download](Session05_sNMF_tutorial.pdf)
+
+<iframe class="pdf-embed" src="Session05_sNMF_tutorial.pdf" title="sNMF tutorial (PDF)" loading="lazy"></iframe>
