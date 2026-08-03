@@ -6,7 +6,6 @@ This is the repository for the collaborative workshop series between SLUBI and S
 As the workshop series progresses this repository will be filled with the contents of each instance. 
 
 Possible future instances (dates and topics are not set in stone): 
-- Introduction to the command line
 - Tools for Reproducible Data Science
 - High Performance Clusters: How to get resources
 - Project planning with statistics in mind
@@ -47,5 +46,6 @@ Past instances:
 - Session26: 19th May 2025 Working with Bioinformatics Containers
 - Session27: 03rd Nov 2025 Introduction to R
 - Session28: 17th Nov 2025 Visual Studio Code
+- Session29: 01st Dec 2025 Introduction to the command line
 
 For more information please visit www.slubi.se. 
