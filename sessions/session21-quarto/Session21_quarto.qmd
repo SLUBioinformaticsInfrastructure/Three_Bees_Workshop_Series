@@ -1,0 +1,219 @@
+---
+title: "Basic Quarto Report"
+author: "SLUBI"
+date: "2025-02-23"
+format:
+  html:
+    code-fold: true
+    theme: default
+---
+
+# Introduction
+
+Welcome to this basic Quarto report. This document is designed to introduce you to some fundamental principles of using Quarto for creating reproducible reports.
+
+## Text and Formatting
+
+Quarto supports Markdown for text formatting. You can use:
+
+- **Bold text**
+- *Italic text*
+- [Links](https://quarto.org)
+- Lists
+  - Item 1
+  - Item 2
+
+## Code Execution
+
+You can include and execute code within your Quarto document. Here is an example using R:
+
+```{r}
+# Load necessary library
+library(ggplot2)
+
+# Create a simple plot
+data(mtcars)
+ggplot(mtcars, aes(x = wt, y = mpg)) +
+  geom_point() +
+  labs(title = "MPG vs Weight", x = "Weight", y = "Miles per Gallon")
+```
+
+
+# Create a more complex plot
+
+```{r}
+#| warning: FALSE
+# Load necessary libraries
+library(ggplot2)
+library(dplyr)
+
+data(mtcars)
+mtcars <- mtcars %>%
+  mutate(cyl = as.factor(cyl))
+
+ggplot(mtcars, aes(x = wt, y = mpg, color = cyl, shape = cyl)) +
+  geom_point(size = 3) +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(title = "MPG vs Weight by Number of Cylinders",
+       x = "Weight",
+       y = "Miles per Gallon",
+       color = "Cylinders",
+       shape = "Cylinders") +
+  theme_minimal() +
+  theme(plot.title = element_text(hjust = 0.5),
+        legend.position = "bottom")
+```
+
+# create interactive plot
+
+```{r}
+#| warning: FALSE
+# Install plotly if not already installed
+if (!requireNamespace("plotly", quietly = TRUE)) {
+  install.packages("plotly")
+}
+
+# Load the plotly library
+library(plotly)
+
+# Load the cars dataset
+data(cars)
+
+# Create an interactive scatter plot
+plot_ly(
+  data = cars,
+  x = ~speed,
+  y = ~dist,
+  type = 'scatter',
+  mode = 'markers',
+  marker = list(size = 10),
+  text = ~paste("Speed: ", speed, "<br>Distance: ", dist)
+) %>%
+  layout(
+    title = "Interactive Scatter Plot of Cars Dataset",
+    xaxis = list(title = "Speed (mph)"),
+    yaxis = list(title = "Stopping Distance (ft)")
+  )
+
+```
+
+# Add tables
+
+Display the first few rows of the mtcars dataset
+
+```{r}
+head(mtcars)
+```
+
+# Style the table
+
+This is a prettier version of the same table, styled with the package `kableExtra`. 
+```{r}
+#| warning: FALSE
+if(!require('kableExtra')) {
+  install.packages('kableExtra')
+  library('kableExtra')
+}
+
+fancy_cars <- knitr::kable(head(mtcars), "html")
+kable_styling(fancy_cars, "striped", "hover", position = "left", font_size = 7)
+```
+
+# Technical writing
+
+## Equations
+
+- **LaTeX Support**: Write equations using LaTeX syntax.
+- **Live Preview**: Edit equations with a live preview of the rendered math.
+- **Inline and Display Math**: Support for both inline and display equations.
+$$
+P(E) = {n /choose k} p^k (2-p)^{n-k}
+$$
+
+## Cross References
+
+- **Easy Navigation**: Create numbered references and hyperlinks to figures, tables, and equations.
+- **Unique Labels**: Requires unique labels and captions for referenceable entities.
+- **Insert Cross References**: Use the Insert menu or type the label prefix for auto-complete.
+
+## Footnotes
+
+- **Editing**: Add and edit footnotes in a separate pane below the main document.
+- **Customizable**: Adjust footnote placement behavior via editor options.
+
+## Embedded Code
+
+- **Display and Executable**: Include code for display or execution.
+- **Syntax Highlighting**: Support for multiple languages with syntax highlighting.
+- **Run Code Chunks**: Execute code chunks directly within the editor.
+
+## Citations
+
+- **Multiple Sources**: Insert citations from document bibliographies, Zotero libraries, DOI references, and academic databases.
+- **Citation Preview**: Hover over citations to see a preview and link to the source.
+- **Bibliographies**: Support for various formats like BibTeX and CSL.
+
+
+
+# YAML Options
+
+At the top of the file there is a YAML block with document level options.
+
+```{verbatim}
+title: "Basic Quarto Report"
+author: "Your Name"
+date: "2025-02-23"
+format:
+  html:
+    code-fold: true
+```
+
+# Code folding
+
+```{verbatim}
+title: "Basic Quarto Report"
+author: "Your Name"
+date: "2025-02-23"
+format:
+  html:
+    code-fold: true
+```
+
+# other ouput formats
+
+We can change this report to be a presentation instead of a .html file. 
+
+```{verbatim}
+format:
+  revealjs:
+    code-fold: true
+```
+
+# Quarto Themes
+
+Quarto supports various themes that allow you to customize the appearance of your documents. You can specify a theme in the YAML header of your document. Here are a few examples of themes you can use:
+
+- Black: A dark theme with white text.
+- White: A light theme with black text.
+- Sky: A blue sky theme with a light background.
+- Moon: A moon theme with a dark background and light text.
+- Solarized: A solarized theme with a light background and colored text.
+
+
+To use a theme, specify it in the YAML header under the output section. For example:
+
+```{verbatim}
+format:
+  revealjs:
+    code-fold: true
+    theme: sky
+```
+
+# Additional features 
+
+- reproducibility: consistend and git compatible
+- cross-platform compatibility: multiple output formats (HTML, PDF, Word, and more)
+- responsive design: output looks good on  desktops, tablets, and smartphones (good for quarto homepages)
+- ease of use: markdown syntax and integration with R
+- publication ready outputs: supports citations, cross-references bibliographies and includes templates
+

@@ -1,7 +1,18 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/workshops.html",
     "items": [
+      "/sessions/session29-command-line/index.html",
+      "/sessions/session28-vscode/index.html",
+      "/sessions/session27-intro-to-r/index.html",
+      "/sessions/session26-containers/index.html",
+      "/sessions/session25-dardel-qa/index.html",
+      "/sessions/session24-ggplot/index.html",
+      "/sessions/session23-data-management/index.html",
+      "/sessions/session22-statistics/index.html",
+      "/sessions/session21-quarto/index.html",
+      "/sessions/session20-markdown/index.html",
+      "/sessions/session19-intro-to-python/index.html",
       "/sessions/session18-pca/index.html",
       "/sessions/session17-intro-to-r/index.html",
       "/sessions/session16-dardel/index.html",
@@ -23,8 +34,19 @@
     ]
   },
   {
-    "listing": "/workshops.html",
+    "listing": "/index.html",
     "items": [
+      "/sessions/session29-command-line/index.html",
+      "/sessions/session28-vscode/index.html",
+      "/sessions/session27-intro-to-r/index.html",
+      "/sessions/session26-containers/index.html",
+      "/sessions/session25-dardel-qa/index.html",
+      "/sessions/session24-ggplot/index.html",
+      "/sessions/session23-data-management/index.html",
+      "/sessions/session22-statistics/index.html",
+      "/sessions/session21-quarto/index.html",
+      "/sessions/session20-markdown/index.html",
+      "/sessions/session19-intro-to-python/index.html",
       "/sessions/session18-pca/index.html",
       "/sessions/session17-intro-to-r/index.html",
       "/sessions/session16-dardel/index.html",
