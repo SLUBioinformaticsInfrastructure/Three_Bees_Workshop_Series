@@ -1,0 +1,26 @@
+---
+title: "Introduction to R"
+subtitle: "Session 27"
+image: thumbnail.svg
+date: 2025-11-03
+author: "SLUBI"
+categories: [R, code-along]
+description: "A beginner-friendly first look at R for data manipulation and visualisation."
+---
+
+## Overview
+
+A short introduction to R. We work on some R basics that you'll need for data
+manipulation and visualisation. The session is geared towards everyone who has
+never used R before, and towards anyone who'd like to refresh their memory.
+
+## Prerequisites
+
+You are welcome to just come and listen. If you want to code along, please bring
+your own laptop with **R** and **RStudio** installed.
+
+## Materials
+
+**Introduction to R (PDF)** — [download](Session27_Introduction_to_R.pdf)
+
+<iframe class="pdf-embed" src="Session27_Introduction_to_R.pdf" title="Introduction to R (PDF)" loading="lazy"></iframe>

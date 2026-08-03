@@ -1,0 +1,29 @@
+---
+title: "Make reports, presentations and homepages in Quarto"
+subtitle: "Session 21"
+image: thumbnail.svg
+date: 2025-02-24
+author: "SLUBI"
+categories: [Quarto, reproducibility, code-along]
+description: "Combine code, results and notes into fully reproducible reports, slides and websites with Quarto."
+---
+
+## Overview
+
+Quarto is a useful and versatile tool for combining your code, its results, and
+your notes. Quarto documents are fully reproducible and support dozens of output
+formats — PDFs, Word files, presentations, and more. You can even build your own
+homepage with Quarto (this site is one!). This session goes through the basics to
+get you started.
+
+## Prerequisites
+
+You are welcome to just come and listen. If you'd like to generate some reports
+during the session, please install:
+
+- the [Quarto command-line interface](https://quarto.org/docs/get-started/)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+
+## Materials
+
+**Quarto (Quarto source)** — [download](Session21_quarto.qmd)

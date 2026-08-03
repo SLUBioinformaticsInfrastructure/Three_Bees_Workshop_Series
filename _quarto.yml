@@ -60,6 +60,10 @@ website:
             href: sessions/session14-shiny/index.qmd
           - text: "17 · Introduction to R"
             href: sessions/session17-intro-to-r/index.qmd
+          - text: "24 · Make pretty graphics — learn to ggplot in R"
+            href: sessions/session24-ggplot/index.qmd
+          - text: "27 · Introduction to R"
+            href: sessions/session27-intro-to-r/index.qmd
       - section: "Python"
         href: "workshops.qmd#category=Python"
         contents:
@@ -67,6 +71,8 @@ website:
             href: sessions/session07-intro-to-python/index.qmd
           - text: "8 · Introduction to Neural Networks"
             href: sessions/session08-neural-networks/index.qmd
+          - text: "19 · Introduction to Python"
+            href: sessions/session19-intro-to-python/index.qmd
       - section: "Statistics"
         href: "workshops.qmd#category=statistics"
         contents:
@@ -74,11 +80,15 @@ website:
             href: sessions/session03-pca/index.qmd
           - text: "18 · PCA - Theory and Practice"
             href: sessions/session18-pca/index.qmd
+          - text: "22 · Common statistical tests"
+            href: sessions/session22-statistics/index.qmd
       - section: "Visualization"
         href: "workshops.qmd#category=visualization"
         contents:
           - text: "9 · Intermediate ggplot in R"
             href: sessions/session09-ggplot-intermediate/index.qmd
+          - text: "24 · Make pretty graphics — learn to ggplot in R"
+            href: sessions/session24-ggplot/index.qmd
       - section: "Reproducibility"
         href: "workshops.qmd#category=reproducibility"
         contents:
@@ -92,6 +102,16 @@ website:
             href: sessions/session12-git-github/index.qmd
           - text: "13 · Project organization in R"
             href: sessions/session13-project-organization/index.qmd
+          - text: "19 · Introduction to Python"
+            href: sessions/session19-intro-to-python/index.qmd
+          - text: "20 · Reporting with Markdown"
+            href: sessions/session20-markdown/index.qmd
+          - text: "21 · Make reports, presentations and homepages in Quarto"
+            href: sessions/session21-quarto/index.qmd
+          - text: "23 · Data Management Resources at SLU"
+            href: sessions/session23-data-management/index.qmd
+          - text: "26 · Working with bioinformatics containers"
+            href: sessions/session26-containers/index.qmd
       - section: "HPC & clusters"
         href: "workshops.qmd#category=HPC"
         contents:
@@ -99,6 +119,12 @@ website:
             href: sessions/session10-intro-to-hpc/index.qmd
           - text: "16 · Introduction to the Dardel Supercomputer"
             href: sessions/session16-dardel/index.qmd
+          - text: "25 · Q&A on Dardel, with HPC support staff"
+            href: sessions/session25-dardel-qa/index.qmd
+          - text: "26 · Working with bioinformatics containers"
+            href: sessions/session26-containers/index.qmd
+          - text: "29 · Introduction to the command line"
+            href: sessions/session29-command-line/index.qmd
       - section: "Command line"
         href: "workshops.qmd#category=command-line"
         contents:
@@ -106,6 +132,13 @@ website:
             href: sessions/session02-linux-basics/index.qmd
           - text: "15 · Introduction to the command line"
             href: sessions/session15-command-line/index.qmd
+          - text: "29 · Introduction to the command line"
+            href: sessions/session29-command-line/index.qmd
+      - section: "Containers"
+        href: "workshops.qmd#category=containers"
+        contents:
+          - text: "26 · Working with bioinformatics containers"
+            href: sessions/session26-containers/index.qmd
       - section: "Git"
         href: "workshops.qmd#category=git"
         contents:
@@ -118,6 +151,8 @@ website:
         contents:
           - text: "11 · Tools and tricks for reproducible research"
             href: sessions/session11-reproducible-research/index.qmd
+          - text: "21 · Make reports, presentations and homepages in Quarto"
+            href: sessions/session21-quarto/index.qmd
 format:
   html:
     theme: [cosmo, styles.scss]

@@ -1,0 +1,21 @@
+---
+title: "Reporting with Markdown"
+subtitle: "Session 20"
+image: thumbnail.svg
+date: 2025-02-10
+author: "SLUBI"
+categories: [markdown, reproducibility, code-along]
+description: "Reporting with Markdown, including from R."
+---
+
+## Overview
+
+This instance of the 3 bees will focus on using the markdown language in your reports. We will go through the basic syntax of the language, how it is implemented in writing reports, and how it can be implemented in R. In R, it is a much smoother way of incorporating your code and discussions of your results than copying and pasting your figures to a word document, and we will show you how to do it!
+
+## Prerequisites
+
+As always, you are welcome to come listen and learn. If you would like to try your hand at generating some reports during the session, please have RStudio installed along with the knitr package, as well as Visual Studio Code.
+
+## Materials
+
+_No downloadable materials for this session._

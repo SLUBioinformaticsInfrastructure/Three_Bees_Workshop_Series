@@ -1,0 +1,34 @@
+---
+title: "Introduction to Visual Studio Code"
+subtitle: "Session 28"
+image: thumbnail.svg
+date: 2025-11-17
+author: "SLUBI"
+categories: [tools, code-along]
+description: "Streamline your work with VS Code / VSCodium: extensions, remote SSH, Markdown, Quarto and more."
+---
+
+## Overview
+
+An introduction to **Visual Studio Code (VS Code)** and its open-source
+alternative **VSCodium**. Both are powerful but beginner-friendly tools that can
+make your work easier and more organised. We believe that adopting VS Code or
+VSCodium will let you streamline your working environment and standardise tasks
+within your working group.
+
+## What you'll learn
+
+- How to install and use helpful extensions
+- How to connect to servers with remote SSH
+- How to write and format documents in Markdown (Markdown All in One) and Quarto
+- How to code in a variety of languages — R, bash, and Python
+- How to display different file types: HTML, image previews, and CSVs
+
+## Prerequisites
+
+You are welcome to just come and listen. If you want to code along, please bring
+your own laptop with **VS Code** or **VSCodium** installed.
+
+## Materials
+
+_No downloadable materials for this session yet._

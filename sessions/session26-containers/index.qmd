@@ -1,0 +1,37 @@
+---
+title: "Working with bioinformatics containers"
+subtitle: "Session 26"
+image: thumbnail.svg
+date: 2025-05-19
+author: "SLUBI"
+categories: [containers, reproducibility, HPC]
+description: "What containers are, what they're for, and how they make your research reproducible anywhere."
+---
+
+## Overview
+
+Containers are becoming increasingly popular in bioinformatics as we move into an
+era of heightened emphasis on reproducible research.
+
+Containers are pieces of software that bundle an operating system and all of the
+dependencies your program needs to run — there is no need to install anything but
+a container platform, such as Docker or Singularity. What makes this even better
+is that containers are stable over time, so you can share them with future-you or
+with collaborators anywhere in the world, and it will be as if you are running the
+same system.
+
+What are the finer details surrounding containers? What are they used for? Where
+can you get them? What can you do with them? These are the questions we answer in
+this session.
+
+## Prerequisites
+
+No preparation reading necessary — just come and learn about containers with us.
+
+## Materials
+
+**Containers (PDF)** — [download](Session26_Containers.pdf)
+
+<iframe class="pdf-embed" src="Session26_Containers.pdf" title="Containers (PDF)" loading="lazy"></iframe>
+
+**Lolcow (definition file)** — [download](Session26_lolcow.def)

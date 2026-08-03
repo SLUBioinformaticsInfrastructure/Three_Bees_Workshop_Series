@@ -1,0 +1,27 @@
+---
+title: "Q&A on Dardel, with HPC support staff"
+subtitle: "Session 25"
+image: thumbnail.svg
+date: 2025-05-05
+author: "SLUBI"
+categories: [HPC]
+description: "A Q&A on the Dardel cluster with HPC support staff."
+---
+
+## Overview
+
+We are happy to announce that support staff from the HPC cluster Dardel will be coming to our next 3 bees session.
+
+Dardel is a high performance cluster that is part of the National Academic Infrastructure for Supercomputing in Sweden (NAISS), a resource free and open to anyone within Sweden.
+
+This coming session is for everyone who works on Dardel, or who is planning on using the system soon. After an introduction to the system and how to use it there will be time for questions and for feedback from current users. So please come with your comments and questions!
+
+## Prerequisites
+
+ No preparation needed, but you are welcome to come with any questions and issues you came across while working with Dardel.
+
+## Materials
+
+**Introduction to Dardel (PDF)** — [download](Session25_Introduction_to_Dardel.pdf)
+
+<iframe class="pdf-embed" src="Session25_Introduction_to_Dardel.pdf" title="Introduction to Dardel (PDF)" loading="lazy"></iframe>

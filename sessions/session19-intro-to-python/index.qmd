@@ -1,0 +1,21 @@
+---
+title: "Introduction to Python"
+subtitle: "Session 19"
+image: thumbnail.svg
+date: 2025-01-15
+author: "SLUBI"
+categories: [Python, reproducibility, code-along]
+description: "Getting started with Python."
+---
+
+## Overview
+
+In this programming workshop we will start from the most basic elements of the Python3 syntax and we will see how such commands will come together to actually solve simple problems, like translating a DNA string into the corresponding protein sequence. We will show you how to use python in R through a package called reticulate https://rstudio.github.io/reticulate/ but all of the principles can be used in any python environment.
+
+## Prerequisites
+
+Before the session, please have R and RStudio installed, along with reticulate (https://rstudio.github.io/reticulate/). If you have encountered any problems with it, we will help you to solve them in the session! However, as always, you are most welcome to drop by and listen without participating!
+
+## Materials
+
+_No downloadable materials for this session._

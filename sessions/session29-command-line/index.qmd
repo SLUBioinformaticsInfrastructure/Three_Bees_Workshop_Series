@@ -1,0 +1,33 @@
+---
+title: "Introduction to the command line"
+subtitle: "Session 29"
+image: thumbnail.svg
+date: 2025-12-01
+author: "SLUBI"
+categories: [command-line, HPC, code-along]
+description: "Linux basics for working on any cluster or server: navigation, files, and handy tricks."
+---
+
+## Overview
+
+A basic introduction to the command line. We work on some Linux basics that you
+will need when you start working on any cluster — whether it's Dardel at PDC,
+HPC2N in Umeå, a departmental cluster, or any online server. We cover all of the
+basics, from what the command line is, to navigating it, making and editing
+files, and a whole bunch of other nifty tricks.
+
+This session is geared towards everyone who has never used the command line
+before, and towards anyone who'd like to refresh their memory.
+
+## Prerequisites
+
+You are welcome to just come and listen. If you'd like to practice along and you
+don't have access to a server or a Linux operating system, please download
+[MobaXterm](https://mobaxterm.mobatek.net/download.html) beforehand. Mac users
+can use the built-in Terminal.
+
+## Materials
+
+**Command Line Intro (PDF)** — [download](Session29_Command_Line_Intro.pdf)
+
+<iframe class="pdf-embed" src="Session29_Command_Line_Intro.pdf" title="Command Line Intro (PDF)" loading="lazy"></iframe>

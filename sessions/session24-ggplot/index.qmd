@@ -1,0 +1,36 @@
+---
+title: "Make pretty graphics — learn to ggplot in R"
+subtitle: "Session 24"
+image: thumbnail.svg
+date: 2025-04-07
+author: "SLUBI"
+categories: [R, visualization, code-along]
+description: "Build and customise publication-ready plots from scratch with ggplot2."
+---
+
+## Overview
+
+This session explores R's data-visualisation package **ggplot2**. It answers
+three questions: why ggplot (how does it differ from base plotting)? How do you
+make plots with ggplot2? And how do you customise and modify them?
+
+## What you'll learn
+
+- The grammar of graphics and its syntax
+- How to build a visualisation from scratch
+- The geometric components of a graph
+- How to produce different plot types (scatter plots, boxplots, barplots, …)
+- What faceting is, and how to apply it
+- How to modify a plot's aesthetics (themes, axis labels, stats, colours, …)
+- How to combine and save plots as publishable figures
+
+## Prerequisites
+
+Please have **R** and **RStudio** installed, plus the ggplot2 package
+(`install.packages("ggplot2")`). The tutorial uses the publicly available
+[Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/) dataset
+(`install.packages("palmerpenguins")`).
+
+## Materials
+
+**Ggplot2 in R (Quarto source)** — [download](Session24_ggplot2_in_R.qmd)

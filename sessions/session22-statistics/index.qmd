@@ -1,0 +1,23 @@
+---
+title: "Common statistical tests"
+subtitle: "Session 22"
+image: thumbnail.svg
+date: 2025-03-10
+author: "SLUBI"
+categories: [statistics, code-along]
+description: "Choosing and running common statistical tests."
+---
+
+## Overview
+
+Null hypothesis significance testing is the most commonly used tool for statistical inference. Depending on the type of data and data collection, the exact test will differ and being able to select the correct test for a given situation is an essential scientific skill. In this presentation we will discuss identification of a suitable test and show how many of the common tests relate to each other in that they are specific cases of linear models.
+
+## Prerequisites
+
+As always, you are welcome to come listen and learn. We will illustrate some basic R code, so an R and RStudio installation may be useful.
+
+## Materials
+
+**Common statistical tests (PDF)** — [download](Session22_common_statistical_tests.pdf)
+
+<iframe class="pdf-embed" src="Session22_common_statistical_tests.pdf" title="Common statistical tests (PDF)" loading="lazy"></iframe>

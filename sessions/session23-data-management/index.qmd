@@ -1,0 +1,21 @@
+---
+title: "Data Management Resources at SLU"
+subtitle: "Session 23"
+image: thumbnail.svg
+date: 2025-03-24
+author: "SLUBI"
+categories: [data-management, reproducibility]
+description: "Data management resources and support at SLU."
+---
+
+## Overview
+
+For our next instance we welcome Hanna Östholm, Kajsa Svensson and Mikaela Asplund from SLU’s Data Management Support. They will talk about the data management support available at SLU, the Swedish laws (including the open data directive and GDPR), and the SLU Environmental Data Catalogue as a resource.   
+
+## Prerequisites
+
+No preparations required – but you are welcome to bring all the data management questions that have been burning on your mind.  (o:
+
+## Materials
+
+_No downloadable materials for this session._
